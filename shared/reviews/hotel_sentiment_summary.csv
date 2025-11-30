@@ -1,0 +1,2435 @@
+hotel_name,year_int,sentiment_score
+1908 Lisboa Hotel,2017,4.346153846153846
+1908 Lisboa Hotel,2018,4.475
+1908 Lisboa Hotel,2019,4.724409448818897
+1908 Lisboa Hotel,2020,4.607142857142857
+1908 Lisboa Hotel,2021,4.7
+1908 Lisboa Hotel,2022,4.714285714285714
+1908 Lisboa Hotel,2023,4.696428571428571
+1908 Lisboa Hotel,2024,4.694444444444445
+1908 Lisboa Hotel,2025,4.784313725490196
+1e Carvoeiro,2009,5.0
+1e Carvoeiro,2010,5.0
+1e Carvoeiro,2011,4.0
+1e Carvoeiro,2012,3.6666666666666665
+1e Carvoeiro,2013,4.2727272727272725
+1e Carvoeiro,2014,4.4
+1e Carvoeiro,2015,4.181818181818182
+1e Carvoeiro,2016,4.0
+1e Carvoeiro,2017,4.1
+1e Carvoeiro,2018,4.190476190476191
+1e Carvoeiro,2019,3.9444444444444446
+1e Carvoeiro,2020,4.5
+1e Carvoeiro,2021,4.8
+1e Carvoeiro,2022,4.166666666666667
+1e Carvoeiro,2023,4.6
+1e Carvoeiro,2024,3.8
+1e Carvoeiro,2025,4.4
+7 Cidades Lake Lodge,2016,4.416666666666667
+7 Cidades Lake Lodge,2017,4.8
+7 Cidades Lake Lodge,2018,5.0
+7 Cidades Lake Lodge,2019,4.5
+7 Cidades Lake Lodge,2022,4.333333333333333
+7 Cidades Lake Lodge,2023,4.0
+7 Cidades Lake Lodge,2024,4.0
+A Casa Formosa,2011,5.0
+A Casa Formosa,2012,4.357142857142857
+A Casa Formosa,2013,4.684210526315789
+A Casa Formosa,2014,4.0
+Algarve Surf Hostel - Lagos,2011,4.666666666666667
+Algarve Surf Hostel - Lagos,2012,4.628571428571429
+Algarve Surf Hostel - Lagos,2013,4.864864864864865
+Algarve Surf Hostel - Lagos,2014,4.771929824561403
+Algarve Surf Hostel - Lagos,2015,4.825
+Algarve Surf Hostel - Lagos,2016,4.705882352941177
+Algarve Surf Hostel - Lagos,2017,4.705882352941177
+Algarve Surf Hostel - Lagos,2018,4.870967741935484
+Algarve Surf Hostel - Lagos,2019,4.95
+Algarve Surf Hostel - Lagos,2020,4.923076923076923
+Algarve Surf Hostel - Lagos,2025,4.0
+Altis BelÃ©m Hotel & Spa,2009,5.0
+Altis BelÃ©m Hotel & Spa,2010,4.05
+Altis BelÃ©m Hotel & Spa,2011,4.32
+Altis BelÃ©m Hotel & Spa,2012,4.340909090909091
+Altis BelÃ©m Hotel & Spa,2013,4.267857142857143
+Altis BelÃ©m Hotel & Spa,2014,4.178571428571429
+Altis BelÃ©m Hotel & Spa,2015,4.408163265306122
+Altis BelÃ©m Hotel & Spa,2016,4.384615384615385
+Altis BelÃ©m Hotel & Spa,2017,4.444444444444445
+Altis BelÃ©m Hotel & Spa,2018,4.222222222222222
+Altis BelÃ©m Hotel & Spa,2019,4.483516483516484
+Altis BelÃ©m Hotel & Spa,2020,4.193548387096774
+Altis BelÃ©m Hotel & Spa,2021,4.666666666666667
+Altis BelÃ©m Hotel & Spa,2022,4.55
+Altis BelÃ©m Hotel & Spa,2023,4.448275862068965
+Altis BelÃ©m Hotel & Spa,2024,4.666666666666667
+Altis BelÃ©m Hotel & Spa,2025,4.555555555555555
+Apartamentos Bellevue Nr. 1,2007,4.0
+Apartamentos Bellevue Nr. 1,2008,5.0
+Apartamentos Bellevue Nr. 1,2009,3.75
+Apartamentos Bellevue Nr. 1,2010,4.666666666666667
+Apartamentos Bellevue Nr. 1,2011,4.625
+Apartamentos Bellevue Nr. 1,2012,4.5
+Apartamentos Bellevue Nr. 1,2013,4.217391304347826
+Apartamentos Bellevue Nr. 1,2014,4.476190476190476
+Apartamentos Bellevue Nr. 1,2015,4.419354838709677
+Apartamentos Bellevue Nr. 1,2016,4.361111111111111
+Apartamentos Bellevue Nr. 1,2017,4.875
+Apartamentos Bellevue Nr. 1,2018,4.416666666666667
+Apartamentos Bellevue Nr. 1,2019,4.8
+Apartamentos Bellevue Nr. 1,2020,5.0
+Apartamentos Bellevue Nr. 1,2021,3.6666666666666665
+Apartamentos Bellevue Nr. 1,2022,5.0
+Apartamentos Bellevue Nr. 1,2023,5.0
+Apartamentos Bellevue Nr. 1,2024,3.0
+Apartamentos Bellevue Nr. 1,2025,3.6666666666666665
+Aparthotel Porto Historico,2014,5.0
+Aparthotel Porto Historico,2018,4.0
+Aparthotel Porto Historico,2022,4.0
+Aparthotel Porto Historico,2023,5.0
+Artbeat Rooms,2010,4.0
+Artbeat Rooms,2011,4.75
+Artbeat Rooms,2012,4.666666666666667
+Artbeat Rooms,2013,4.833333333333333
+Artbeat Rooms,2014,4.5
+Artbeat Rooms,2015,4.625
+Artbeat Rooms,2016,4.785714285714286
+Artbeat Rooms,2017,4.666666666666667
+Artbeat Rooms,2018,4.6
+Artbeat Rooms,2019,4.333333333333333
+Artbeat Rooms,2020,5.0
+BJB Alojamentos,2016,4.5
+BJB Alojamentos,2017,4.5
+BJB Alojamentos,2018,4.333333333333333
+BJB Alojamentos,2019,5.0
+Belmar Spa & Beach Resort,2011,4.0
+Belmar Spa & Beach Resort,2012,4.06
+Belmar Spa & Beach Resort,2013,4.246753246753247
+Belmar Spa & Beach Resort,2014,4.0144927536231885
+Belmar Spa & Beach Resort,2015,4.096774193548387
+Belmar Spa & Beach Resort,2016,4.007936507936508
+Belmar Spa & Beach Resort,2017,3.90625
+Belmar Spa & Beach Resort,2018,3.7636363636363637
+Belmar Spa & Beach Resort,2019,3.9318181818181817
+Belmar Spa & Beach Resort,2020,3.5555555555555554
+Belmar Spa & Beach Resort,2021,4.125
+Belmar Spa & Beach Resort,2022,4.027777777777778
+Belmar Spa & Beach Resort,2023,3.9761904761904763
+Belmar Spa & Beach Resort,2024,4.293814432989691
+Belmar Spa & Beach Resort,2025,4.238095238095238
+"Borralha Hotel, Restaurante & Spa",2017,4.0
+"Borralha Hotel, Restaurante & Spa",2018,4.5
+"Borralha Hotel, Restaurante & Spa",2019,4.0
+"Borralha Hotel, Restaurante & Spa",2023,4.0
+"Borralha Hotel, Restaurante & Spa",2024,4.125
+"Borralha Hotel, Restaurante & Spa",2025,4.0
+Bura Surfhouse,2013,4.730769230769231
+Bura Surfhouse,2014,4.5
+Bura Surfhouse,2015,4.45945945945946
+Bura Surfhouse,2016,4.913043478260869
+Bura Surfhouse,2017,4.035714285714286
+Bura Surfhouse,2018,4.739130434782608
+Bura Surfhouse,2019,4.708333333333333
+Bura Surfhouse,2020,4.833333333333333
+Bura Surfhouse,2021,4.666666666666667
+Bura Surfhouse,2022,2.0
+Bura Surfhouse,2023,5.0
+Bura Surfhouse,2025,4.0
+C'alma D'alentejo,2024,4.75
+C'alma D'alentejo,2025,5.0
+Cabanas da Viscondessa,2020,5.0
+Cabanas da Viscondessa,2021,5.0
+Cabanas da Viscondessa,2023,3.0
+Cabanas da Viscondessa,2024,4.75
+Cabanas da Viscondessa,2025,5.0
+Camping Quinta Valbom,2024,4.777777777777778
+Camping Quinta Valbom,2025,4.5
+Camping Villa Park Zambujeira do Mar,2016,4.2
+Camping Villa Park Zambujeira do Mar,2017,4.6
+Camping Villa Park Zambujeira do Mar,2018,4.0
+Camping Villa Park Zambujeira do Mar,2019,4.25
+Camping Villa Park Zambujeira do Mar,2020,4.0
+Camping Villa Park Zambujeira do Mar,2023,4.5
+Camping Villa Park Zambujeira do Mar,2024,3.8
+Camping Villa Park Zambujeira do Mar,2025,3.5555555555555554
+Candeias do Souto,2016,5.0
+Candeias do Souto,2022,4.0
+Candeias do Souto,2023,4.0
+Candeias do Souto,2024,4.666666666666667
+Canto de Luz,2014,4.666666666666667
+Canto de Luz,2015,4.909090909090909
+Canto de Luz,2016,4.944444444444445
+Canto de Luz,2017,4.892857142857143
+Canto de Luz,2018,4.821428571428571
+Canto de Luz,2019,4.866666666666666
+Canto de Luz,2020,4.642857142857143
+Canto de Luz,2021,4.868421052631579
+Canto de Luz,2022,4.911111111111111
+Canto de Luz,2023,4.780701754385965
+Canto de Luz,2024,4.704081632653061
+Canto de Luz,2025,4.684210526315789
+Captain's Log House,2011,4.75
+Captain's Log House,2012,4.84375
+Captain's Log House,2013,4.767441860465116
+Captain's Log House,2014,4.754716981132075
+Captain's Log House,2015,4.84375
+Captain's Log House,2016,4.785714285714286
+Captain's Log House,2017,5.0
+Captain's Log House,2018,5.0
+Captain's Log House,2019,5.0
+Captain's Log House,2020,5.0
+Captain's Log House,2021,4.0
+Captain's Log House,2022,5.0
+Captain's Log House,2025,5.0
+Cardeal Suites & Apartments,2021,4.666666666666667
+Cardeal Suites & Apartments,2022,5.0
+Cardeal Suites & Apartments,2023,4.9
+Cardeal Suites & Apartments,2024,4.9
+Cardeal Suites & Apartments,2025,4.714285714285714
+Casa Areias Apartamentos,2020,5.0
+Casa Areias Apartamentos,2021,5.0
+Casa Areias Apartamentos,2022,3.3333333333333335
+Casa Areias Apartamentos,2023,5.0
+Casa Areias Apartamentos,2025,5.0
+Casa Da Piedade,2013,4.666666666666667
+Casa Da Piedade,2014,4.333333333333333
+Casa Da Piedade,2015,4.0
+Casa Da Piedade,2016,4.0
+Casa Da Piedade,2019,4.0
+Casa Da Piedade,2021,4.0
+Casa Da Piedade,2022,5.0
+Casa Da Piedade,2023,5.0
+Casa Da Piedade,2024,5.0
+Casa Das Muralhas,2019,5.0
+Casa Das Muralhas,2020,5.0
+Casa Das Muralhas,2021,5.0
+Casa Das Muralhas,2022,5.0
+Casa Das Muralhas,2023,4.25
+Casa Das Muralhas,2024,4.5
+Casa Das Muralhas,2025,4.5
+Casa Do Rio Wine Hotel,2016,4.583333333333333
+Casa Do Rio Wine Hotel,2017,4.769230769230769
+Casa Do Rio Wine Hotel,2018,4.6
+Casa Do Rio Wine Hotel,2019,4.5
+Casa Do Rio Wine Hotel,2020,5.0
+Casa Do Rio Wine Hotel,2021,4.666666666666667
+Casa Do Rio Wine Hotel,2022,4.5
+Casa Do Rio Wine Hotel,2023,4.5
+Casa Do Rio Wine Hotel,2024,4.75
+Casa Do Rio Wine Hotel,2025,5.0
+Casa Holstein,2017,5.0
+Casa Holstein,2018,4.36
+Casa Holstein,2019,4.461538461538462
+Casa Holstein,2020,4.5
+Casa Holstein,2021,4.75
+Casa Holstein,2022,3.857142857142857
+Casa Holstein,2023,4.285714285714286
+Casa Holstein,2024,3.6666666666666665
+Casa Holstein,2025,4.5
+Casa Hospedes Celeste,2010,5.0
+Casa Hospedes Celeste,2011,4.0
+Casa Hospedes Celeste,2012,4.0
+Casa Hospedes Celeste,2013,5.0
+Casa Hospedes Celeste,2014,4.0
+Casa Hospedes Celeste,2015,4.5
+Casa Hospedes Celeste,2016,4.333333333333333
+Casa Hospedes Celeste,2017,4.833333333333333
+Casa Hospedes Celeste,2018,4.75
+Casa Hospedes Celeste,2019,3.5
+Casa Hospedes Celeste,2024,5.0
+Casa Hospedes Celeste,2025,5.0
+Casa Lagoa,2021,5.0
+Casa Lagoa,2022,5.0
+Casa Lagoa,2023,5.0
+Casa Lagoa,2025,5.0
+Casa Mitchell Apartments,2005,4.5
+Casa Mitchell Apartments,2007,4.5
+Casa Mitchell Apartments,2008,4.2
+Casa Mitchell Apartments,2009,3.5
+Casa Mitchell Apartments,2010,3.4615384615384617
+Casa Mitchell Apartments,2011,4.1875
+Casa Mitchell Apartments,2012,3.875
+Casa Mitchell Apartments,2013,4.1
+Casa Mitchell Apartments,2014,4.32
+Casa Mitchell Apartments,2015,3.8461538461538463
+Casa Mitchell Apartments,2016,4.095238095238095
+Casa Mitchell Apartments,2017,4.235294117647059
+Casa Mitchell Apartments,2018,4.5
+Casa Mitchell Apartments,2019,3.8181818181818183
+Casa Mitchell Apartments,2020,4.0
+Casa Mitchell Apartments,2021,4.111111111111111
+Casa Mitchell Apartments,2022,4.214285714285714
+Casa Mitchell Apartments,2023,4.3076923076923075
+Casa Mitchell Apartments,2024,4.25
+Casa Mitchell Apartments,2025,3.75
+Casa Morais,2011,4.5
+Casa Morais,2012,4.0
+Casa Morais,2013,5.0
+Casa Morais,2014,4.5
+Casa Morais,2015,4.714285714285714
+Casa Morais,2016,4.0
+Casa Morais,2017,4.2
+Casa Pinha,2009,5.0
+Casa Pinha,2010,5.0
+Casa Pinha,2011,2.5
+Casa Pinha,2012,4.0
+Casa Pinha,2013,3.75
+Casa Pinha,2014,4.0
+Casa Pinha,2015,3.0
+Casa Pinha,2016,4.0
+Casa Pinha,2017,3.0
+Casa Pinha,2018,1.0
+Casa Pinha,2024,5.0
+Casa Pinha,2025,5.0
+Casa Pinto,2010,4.666666666666667
+Casa Pinto,2011,4.833333333333333
+Casa Pinto,2012,4.666666666666667
+Casa Pinto,2013,4.818181818181818
+Casa Pinto,2014,4.6
+Casa Pinto,2015,4.631578947368421
+Casa Pinto,2016,4.5
+Casa Pinto,2017,4.8
+Casa Pinto,2018,3.8
+Casa Pinto,2019,4.333333333333333
+Casa Pinto,2020,5.0
+Casa Pinto,2023,3.3333333333333335
+Casa Pinto,2024,4.5
+Casa Pinto,2025,3.3333333333333335
+Casa Vela Boutique House,2011,4.25
+Casa Vela Boutique House,2012,4.534883720930233
+Casa Vela Boutique House,2013,4.414634146341464
+Casa Vela Boutique House,2014,4.564102564102564
+Casa Vela Boutique House,2015,4.709677419354839
+Casa Vela Boutique House,2016,4.515151515151516
+Casa Vela Boutique House,2017,4.580645161290323
+Casa Vela Boutique House,2018,4.5813953488372094
+Casa Vela Boutique House,2019,4.451612903225806
+Casa Vela Boutique House,2020,4.615384615384615
+Casa Vela Boutique House,2021,4.571428571428571
+Casa Vela Boutique House,2022,4.575
+Casa Vela Boutique House,2023,4.35
+Casa Vela Boutique House,2024,4.27027027027027
+Casa Vela Boutique House,2025,4.541666666666667
+Casa da Aldeia,2021,4.0
+Casa da Aldeia,2023,5.0
+Casa da Aldeia,2024,4.923076923076923
+Casa da Aldeia,2025,5.0
+Casa da Tita,2016,5.0
+Casa da Tita,2017,4.666666666666667
+Casa da Tita,2018,5.0
+Casa da Tita,2019,4.5
+Casa da Tita,2020,4.666666666666667
+Casa da Tita,2022,5.0
+Casa da Tita,2023,5.0
+Casa da Tita,2024,5.0
+Casa das Merceeiras,2013,4.75
+Casa das Merceeiras,2014,4.444444444444445
+Casa das Merceeiras,2015,4.6
+Casa das Merceeiras,2016,4.818181818181818
+Casa das Merceeiras,2017,4.5
+Casa das Merceeiras,2018,4.6
+Casa das Merceeiras,2019,4.571428571428571
+Casa das Merceeiras,2020,5.0
+Casa de Santa Cruz,2014,5.0
+Casa de Santa Cruz,2018,5.0
+Casa de Santa Cruz,2019,5.0
+Casa de Santa Cruz,2020,5.0
+Casa de Santa Cruz,2021,5.0
+Casa de Santa Cruz,2023,5.0
+Casa de Santa Cruz,2025,5.0
+Casa de Sezim,2006,5.0
+Casa de Sezim,2011,5.0
+Casa de Sezim,2012,4.714285714285714
+Casa de Sezim,2013,4.333333333333333
+Casa de Sezim,2014,4.666666666666667
+Casa de Sezim,2015,4.555555555555555
+Casa de Sezim,2016,4.5
+Casa de Sezim,2017,4.8
+Casa de Sezim,2018,5.0
+Casa de Sezim,2019,4.5
+Casa de Sezim,2021,3.0
+Casa de Sezim,2022,4.5
+Casa de Sezim,2023,5.0
+Casa de Sezim,2025,4.0
+Casa do Cabeco,2018,5.0
+Casa do Cabeco,2019,4.6
+Casa do Cabeco,2020,3.6666666666666665
+Casa do Cabeco,2021,5.0
+Casa do Cabeco,2022,4.0
+Casa do Cabeco,2023,4.8
+Casa do Cabeco,2024,4.916666666666667
+Casa do Cabeco,2025,5.0
+Casa do Moleiro,2013,5.0
+Casa do Moleiro,2015,5.0
+Casa do Moleiro,2017,4.0
+Casa do Moleiro,2021,5.0
+Casa do Moleiro,2024,5.0
+Casa do Moleiro,2025,5.0
+Casas Campo Cimo da Quinta,2013,5.0
+Casas Campo Cimo da Quinta,2014,4.5
+Casas Campo Cimo da Quinta,2015,4.0
+Casas Campo Cimo da Quinta,2016,4.0
+Casas Campo Cimo da Quinta,2017,4.0
+Casas Campo Cimo da Quinta,2023,3.6666666666666665
+Casas Campo Cimo da Quinta,2024,4.0
+Casas Campo Cimo da Quinta,2025,1.0
+Casas do Porto - Ribeira Apartments,2014,4.666666666666667
+Casas do Porto - Ribeira Apartments,2015,4.787878787878788
+Casas do Porto - Ribeira Apartments,2016,4.764705882352941
+Casas do Porto - Ribeira Apartments,2017,4.73469387755102
+Casas do Porto - Ribeira Apartments,2018,4.613636363636363
+Casas do Porto - Ribeira Apartments,2019,4.739130434782608
+Casas do Porto - Ribeira Apartments,2020,5.0
+Casas do Porto - Ribeira Apartments,2021,5.0
+Casas do Porto - Ribeira Apartments,2022,4.923076923076923
+Casas do Porto - Ribeira Apartments,2023,4.782608695652174
+Casas do Porto - Ribeira Apartments,2024,4.846153846153846
+Casas do Porto - Ribeira Apartments,2025,4.694444444444445
+Casazul,2012,5.0
+Casazul,2013,4.25
+Casazul,2014,4.666666666666667
+Casazul,2015,4.333333333333333
+Casazul,2016,4.333333333333333
+Casazul,2017,4.166666666666667
+Casazul,2018,3.3333333333333335
+Casazul,2025,5.0
+Chalet Relogio,2011,3.0
+Chalet Relogio,2012,3.5
+Chalet Relogio,2013,4.0
+Chalet Relogio,2014,4.6
+Chalet Relogio,2015,4.6
+Chalet Relogio,2016,3.7857142857142856
+Chalet Relogio,2017,4.0
+Chalet Relogio,2018,2.6666666666666665
+Chalet Relogio,2019,4.25
+Chalet Relogio,2020,4.0
+Chalet Relogio,2022,4.0
+Chalet Relogio,2023,4.25
+Chalet Relogio,2024,3.0
+Chalet Relogio,2025,2.2
+Charming Antas House,2017,5.0
+Charming Antas House,2018,4.666666666666667
+Charming Antas House,2019,5.0
+Charming Antas House,2021,4.0
+Charming Antas House,2022,5.0
+Charming Antas House,2023,5.0
+Charming Antas House,2024,4.857142857142857
+Chicks On Waves,2019,4.3
+Chicks On Waves,2020,5.0
+Chicks On Waves,2022,5.0
+Chicks On Waves,2023,5.0
+Chicks On Waves,2024,5.0
+Chicks On Waves,2025,5.0
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2011,4.4
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2012,4.75
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2013,4.142857142857143
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2014,4.166666666666667
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2015,4.571428571428571
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2016,4.25
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2017,4.4
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2018,4.5
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2019,4.0
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2020,5.0
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2021,5.0
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2023,4.666666666666667
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2024,4.5
+Cidnay Santo Tirso - Charming Hotel & Executive Center,2025,4.75
+Cinco Bed & Breakfast,2007,5.0
+Cinco Bed & Breakfast,2008,4.666666666666667
+Cinco Bed & Breakfast,2009,4.555555555555555
+Cinco Bed & Breakfast,2010,4.375
+Cinco Bed & Breakfast,2011,4.5
+Cinco Bed & Breakfast,2012,4.375
+Cinco Bed & Breakfast,2013,4.4
+Cinco Bed & Breakfast,2014,4.625
+Cinco Bed & Breakfast,2015,4.0
+Cinco Bed & Breakfast,2016,4.8
+Cinco Bed & Breakfast,2017,5.0
+Cinco Bed & Breakfast,2018,5.0
+Cinco Bed & Breakfast,2020,5.0
+Cinco Bed & Breakfast,2022,5.0
+Cinco Bed & Breakfast,2024,4.666666666666667
+Cloud 9 Hostel,2011,5.0
+Cloud 9 Hostel,2012,4.25
+Cloud 9 Hostel,2013,4.777777777777778
+Cloud 9 Hostel,2014,4.5
+Cloud 9 Hostel,2015,4.222222222222222
+Cloud 9 Hostel,2016,4.363636363636363
+Cloud 9 Hostel,2017,4.666666666666667
+Cloud 9 Hostel,2018,4.375
+Cloud 9 Hostel,2019,4.666666666666667
+Conii Hostel & Suites,2016,4.75
+Conii Hostel & Suites,2017,4.666666666666667
+Conii Hostel & Suites,2018,4.8
+Conii Hostel & Suites,2019,4.5
+Conii Hostel & Suites,2021,5.0
+Conii Hostel & Suites,2022,5.0
+Convento da Provença,2011,4.0
+Convento da Provença,2012,4.5
+Convento da Provença,2013,3.5
+Convento da Provença,2014,4.0
+Convento da Provença,2015,4.333333333333333
+Convento da Provença,2016,4.5
+Convento da Provença,2017,4.666666666666667
+Convento da Provença,2018,4.0
+Convento da Provença,2020,5.0
+Convento da Provença,2023,3.5
+Convento da Provença,2024,4.0
+Convento da Provença,2025,2.5
+Crowne Plaza Vilamoura,2014,4.070796460176991
+Crowne Plaza Vilamoura,2015,3.9109792284866467
+Crowne Plaza Vilamoura,2016,3.985632183908046
+Crowne Plaza Vilamoura,2017,4.033557046979865
+Crowne Plaza Vilamoura,2018,4.089285714285714
+Crowne Plaza Vilamoura,2019,3.911602209944751
+Crowne Plaza Vilamoura,2020,3.5405405405405403
+Crowne Plaza Vilamoura,2021,3.392857142857143
+Crowne Plaza Vilamoura,2022,3.8125
+Crowne Plaza Vilamoura,2023,3.863013698630137
+Crowne Plaza Vilamoura,2024,3.6825396825396823
+Crowne Plaza Vilamoura,2025,3.96875
+Dixo's Oporto Hostel,2011,4.166666666666667
+Dixo's Oporto Hostel,2012,4.75
+Dixo's Oporto Hostel,2013,4.542857142857143
+Dixo's Oporto Hostel,2014,4.619047619047619
+Dixo's Oporto Hostel,2015,4.3
+Dixo's Oporto Hostel,2016,4.5
+Dixo's Oporto Hostel,2019,3.6666666666666665
+Dom Carlos Liberty,2004,4.0
+Dom Carlos Liberty,2006,4.0
+Dom Carlos Liberty,2007,4.0
+Dom Carlos Liberty,2008,4.166666666666667
+Dom Carlos Liberty,2009,4.0
+Dom Carlos Liberty,2010,4.166666666666667
+Dom Carlos Liberty,2011,4.181818181818182
+Dom Carlos Liberty,2012,4.314285714285714
+Dom Carlos Liberty,2013,3.8333333333333335
+Dom Carlos Liberty,2014,3.909090909090909
+Dom Carlos Liberty,2015,3.923076923076923
+Dom Carlos Liberty,2016,3.8181818181818183
+Dom Carlos Liberty,2017,3.75
+Dom Carlos Liberty,2018,4.454545454545454
+Dom Carlos Liberty,2019,3.5
+Dom Carlos Liberty,2022,4.75
+Dom Carlos Liberty,2023,4.2
+Dom Carlos Liberty,2024,3.466666666666667
+Dom Carlos Liberty,2025,4.4
+Dom Nuno - Turismo de Habitação,2015,4.555555555555555
+Dom Nuno - Turismo de Habitação,2016,5.0
+Dom Nuno - Turismo de Habitação,2017,4.666666666666667
+Dom Nuno - Turismo de Habitação,2018,4.2
+Dom Nuno - Turismo de Habitação,2019,4.333333333333333
+Dona Filipa Hotel Vale Do Lobo,2014,3.7142857142857144
+Dona Filipa Hotel Vale Do Lobo,2015,3.925925925925926
+Dona Filipa Hotel Vale Do Lobo,2016,3.7613636363636362
+Dona Filipa Hotel Vale Do Lobo,2017,3.6440677966101696
+Dona Filipa Hotel Vale Do Lobo,2018,3.25
+Dona Filipa Hotel Vale Do Lobo,2019,3.441860465116279
+Dona Filipa Hotel Vale Do Lobo,2020,4.142857142857143
+Dona Filipa Hotel Vale Do Lobo,2021,3.1818181818181817
+Dona Filipa Hotel Vale Do Lobo,2022,4.129032258064516
+Dona Filipa Hotel Vale Do Lobo,2023,3.576923076923077
+Dona Filipa Hotel Vale Do Lobo,2024,3.5517241379310347
+Dona Filipa Hotel Vale Do Lobo,2025,3.142857142857143
+Dream Chiado,2016,4.703703703703703
+Dream Chiado,2017,4.696969696969697
+Dream Chiado,2018,4.260869565217392
+Dream Chiado,2019,4.631578947368421
+Dream Chiado,2020,4.75
+Dream Chiado,2021,3.0
+Dream Chiado,2022,4.0
+Dream Chiado,2023,3.75
+Dream Chiado,2024,3.7142857142857144
+Dream Chiado,2025,4.833333333333333
+Duque's Apartments,2015,4.0
+Duque's Apartments,2017,4.75
+Duque's Apartments,2018,4.666666666666667
+Duque's Apartments,2019,4.8
+Duque's Apartments,2021,5.0
+Duque's Apartments,2023,5.0
+Duque's Apartments,2024,4.5
+Duque's Apartments,2025,5.0
+Encostas do Coa TER,2024,5.0
+Encostas do Coa TER,2025,5.0
+Ermida Geres Camping,2014,4.75
+Ermida Geres Camping,2015,4.909090909090909
+Ermida Geres Camping,2016,5.0
+Ermida Geres Camping,2017,4.75
+Ermida Geres Camping,2018,4.666666666666667
+Ermida Geres Camping,2019,5.0
+Ermida Geres Camping,2020,4.666666666666667
+Ermida Geres Camping,2022,4.0
+Ermida Geres Camping,2023,4.0
+Ermida Geres Camping,2024,2.5
+Ermida Geres Camping,2025,5.0
+Espaço Edla,2013,4.5
+Espaço Edla,2014,5.0
+Espaço Edla,2015,4.142857142857143
+Espaço Edla,2016,4.4
+Espaço Edla,2017,4.0
+Estalagem Da Ponta Do Sol,2004,3.0
+Estalagem Da Ponta Do Sol,2005,4.0
+Estalagem Da Ponta Do Sol,2006,4.5
+Estalagem Da Ponta Do Sol,2007,4.333333333333333
+Estalagem Da Ponta Do Sol,2008,4.166666666666667
+Estalagem Da Ponta Do Sol,2009,3.5714285714285716
+Estalagem Da Ponta Do Sol,2010,4.181818181818182
+Estalagem Da Ponta Do Sol,2011,4.1875
+Estalagem Da Ponta Do Sol,2012,4.208333333333333
+Estalagem Da Ponta Do Sol,2013,4.25
+Estalagem Da Ponta Do Sol,2014,4.25
+Estalagem Da Ponta Do Sol,2015,4.137931034482759
+Estalagem Da Ponta Do Sol,2016,4.444444444444445
+Estalagem Da Ponta Do Sol,2017,4.478260869565218
+Estalagem Da Ponta Do Sol,2018,4.304347826086956
+Estalagem Da Ponta Do Sol,2019,3.7777777777777777
+Estalagem Da Ponta Do Sol,2020,4.260869565217392
+Estalagem Da Ponta Do Sol,2021,4.6875
+Estalagem Da Ponta Do Sol,2022,4.071428571428571
+Estalagem Da Ponta Do Sol,2023,4.52
+Estalagem Da Ponta Do Sol,2024,4.3076923076923075
+Estalagem Da Ponta Do Sol,2025,3.3333333333333335
+Estalagem de MarvÃ£o - Casa de Campo,2013,5.0
+Estalagem de MarvÃ£o - Casa de Campo,2014,5.0
+Estalagem de MarvÃ£o - Casa de Campo,2015,4.666666666666667
+Estalagem de MarvÃ£o - Casa de Campo,2016,5.0
+Estalagem de MarvÃ£o - Casa de Campo,2017,5.0
+Estalagem de MarvÃ£o - Casa de Campo,2018,4.8
+Estalagem de MarvÃ£o - Casa de Campo,2019,4.0
+Estalagem de MarvÃ£o - Casa de Campo,2023,5.0
+Estalagem de MarvÃ£o - Casa de Campo,2024,4.5
+Eurostars Porto Douro,2016,4.277777777777778
+Eurostars Porto Douro,2017,4.25
+Eurostars Porto Douro,2018,4.190476190476191
+Eurostars Porto Douro,2019,4.340909090909091
+Eurostars Porto Douro,2020,5.0
+Eurostars Porto Douro,2021,4.428571428571429
+Eurostars Porto Douro,2022,4.0
+Eurostars Porto Douro,2023,4.3
+Eurostars Porto Douro,2024,4.0588235294117645
+Eurostars Porto Douro,2025,4.555555555555555
+Eurostars Santa Luzia,2016,4.578947368421052
+Eurostars Santa Luzia,2017,3.9545454545454546
+Eurostars Santa Luzia,2018,4.3125
+Eurostars Santa Luzia,2019,2.5555555555555554
+Eurostars Santa Luzia,2020,5.0
+Eurostars Santa Luzia,2021,4.5
+Eurostars Santa Luzia,2024,3.466666666666667
+Eurostars Santa Luzia,2025,3.142857142857143
+Four Seasons Fairways,2007,4.0
+Four Seasons Fairways,2008,3.3333333333333335
+Four Seasons Fairways,2009,4.2
+Four Seasons Fairways,2010,5.0
+Four Seasons Fairways,2011,3.857142857142857
+Four Seasons Fairways,2012,4.413793103448276
+Four Seasons Fairways,2013,4.5675675675675675
+Four Seasons Fairways,2014,4.42
+Four Seasons Fairways,2015,4.566037735849057
+Four Seasons Fairways,2016,4.671232876712328
+Four Seasons Fairways,2017,4.552631578947368
+Four Seasons Fairways,2018,4.642857142857143
+Four Seasons Fairways,2019,4.620689655172414
+Four Seasons Fairways,2020,4.642857142857143
+Four Seasons Fairways,2021,4.2
+Four Seasons Fairways,2022,4.782608695652174
+Four Seasons Fairways,2023,4.583333333333333
+Four Seasons Fairways,2024,4.7727272727272725
+Four Seasons Fairways,2025,4.607142857142857
+Grand Muthu Forte Do Vale,2014,3.851063829787234
+Grand Muthu Forte Do Vale,2015,3.8465608465608465
+Grand Muthu Forte Do Vale,2016,3.3684210526315788
+Grand Muthu Forte Do Vale,2017,3.5757575757575757
+Grand Muthu Forte Do Vale,2018,3.3225806451612905
+Grand Muthu Forte Do Vale,2019,3.776
+Grand Muthu Forte Do Vale,2020,4.125
+Grand Muthu Forte Do Vale,2021,4.444444444444445
+Grand Muthu Forte Do Vale,2022,3.703125
+Grand Muthu Forte Do Vale,2023,4.143646408839779
+Grand Muthu Forte Do Vale,2024,4.3841642228739
+Grand Muthu Forte Do Vale,2025,4.398550724637682
+HF Fenix Lisboa,2006,4.333333333333333
+HF Fenix Lisboa,2007,3.5384615384615383
+HF Fenix Lisboa,2008,3.2
+HF Fenix Lisboa,2009,4.153846153846154
+HF Fenix Lisboa,2010,3.3529411764705883
+HF Fenix Lisboa,2011,3.9411764705882355
+HF Fenix Lisboa,2012,3.8780487804878048
+HF Fenix Lisboa,2013,3.9344262295081966
+HF Fenix Lisboa,2014,4.185714285714286
+HF Fenix Lisboa,2015,4.011764705882353
+HF Fenix Lisboa,2016,4.0701754385964914
+HF Fenix Lisboa,2017,4.056338028169014
+HF Fenix Lisboa,2018,4.137931034482759
+HF Fenix Lisboa,2019,3.951219512195122
+HF Fenix Lisboa,2020,4.4
+HF Fenix Lisboa,2021,3.25
+HF Fenix Lisboa,2022,3.7142857142857144
+HF Fenix Lisboa,2023,4.241379310344827
+HF Fenix Lisboa,2024,3.7948717948717947
+HF Fenix Lisboa,2025,3.227272727272727
+Harbour Inn Design Townhouse,2020,5.0
+Harbour Inn Design Townhouse,2021,5.0
+Harbour Inn Design Townhouse,2022,5.0
+Harbour Inn Design Townhouse,2023,4.75
+Harbour Inn Design Townhouse,2024,4.777777777777778
+Harbour Inn Design Townhouse,2025,4.5
+Herdade Da Matinha,2008,4.0
+Herdade Da Matinha,2009,4.5
+Herdade Da Matinha,2010,3.4285714285714284
+Herdade Da Matinha,2011,4.666666666666667
+Herdade Da Matinha,2012,3.75
+Herdade Da Matinha,2013,3.8
+Herdade Da Matinha,2014,4.25
+Herdade Da Matinha,2015,4.642857142857143
+Herdade Da Matinha,2016,4.384615384615385
+Herdade Da Matinha,2017,4.095238095238095
+Herdade Da Matinha,2018,4.4
+Herdade Da Matinha,2019,4.090909090909091
+Herdade Da Matinha,2020,4.0625
+Herdade Da Matinha,2021,4.4
+Herdade Da Matinha,2022,4.2
+Herdade Da Matinha,2023,4.666666666666667
+Herdade Da Matinha,2024,4.5
+Herdade Da Matinha,2025,5.0
+Herdade da Serrinha Agro-Turismo,2013,5.0
+Herdade da Serrinha Agro-Turismo,2014,5.0
+Herdade da Serrinha Agro-Turismo,2015,5.0
+Herdade da Serrinha Agro-Turismo,2016,4.5
+Herdade da Serrinha Agro-Turismo,2017,4.0
+Herdade da Serrinha Agro-Turismo,2018,4.666666666666667
+Herdade da Urgueira,2016,5.0
+Herdade da Urgueira,2017,5.0
+Herdade da Urgueira,2018,4.0
+Herdade da Urgueira,2019,1.0
+Herdade da Urgueira,2021,5.0
+Herdade da Urgueira,2022,5.0
+Herdade da Urgueira,2023,5.0
+Herdade da Urgueira,2024,3.6666666666666665
+Herdade da Urgueira,2025,4.0
+Hilton Garden Inn Évora,2023,4.428571428571429
+Hilton Garden Inn Évora,2024,4.26
+Hilton Garden Inn Évora,2025,4.057142857142857
+Hilton Porto Gaia,2021,4.444444444444445
+Hilton Porto Gaia,2022,4.166666666666667
+Hilton Porto Gaia,2023,4.386666666666667
+Hilton Porto Gaia,2024,3.8260869565217392
+Hilton Porto Gaia,2025,4.222222222222222
+HolaCamp Albufeira,2013,4.4
+HolaCamp Albufeira,2014,4.0
+HolaCamp Albufeira,2015,3.8181818181818183
+HolaCamp Albufeira,2016,4.0
+HolaCamp Albufeira,2017,3.8461538461538463
+HolaCamp Albufeira,2018,3.230769230769231
+HolaCamp Albufeira,2019,2.9285714285714284
+HolaCamp Albufeira,2020,3.6666666666666665
+HolaCamp Albufeira,2021,2.8
+HolaCamp Albufeira,2022,3.6
+HolaCamp Albufeira,2023,3.75
+HolaCamp Albufeira,2024,3.375
+HolaCamp Albufeira,2025,3.56
+Holiday Inn Express Lisbon - Oeiras By IHG,2008,5.0
+Holiday Inn Express Lisbon - Oeiras By IHG,2009,3.5
+Holiday Inn Express Lisbon - Oeiras By IHG,2010,4.0
+Holiday Inn Express Lisbon - Oeiras By IHG,2011,3.6666666666666665
+Holiday Inn Express Lisbon - Oeiras By IHG,2012,3.0
+Holiday Inn Express Lisbon - Oeiras By IHG,2013,3.2
+Holiday Inn Express Lisbon - Oeiras By IHG,2014,3.5
+Holiday Inn Express Lisbon - Oeiras By IHG,2015,3.25
+Holiday Inn Express Lisbon - Oeiras By IHG,2016,3.9166666666666665
+Holiday Inn Express Lisbon - Oeiras By IHG,2017,3.2857142857142856
+Holiday Inn Express Lisbon - Oeiras By IHG,2018,3.642857142857143
+Holiday Inn Express Lisbon - Oeiras By IHG,2019,3.909090909090909
+Holiday Inn Express Lisbon - Oeiras By IHG,2020,5.0
+Holiday Inn Express Lisbon - Oeiras By IHG,2021,2.0
+Holiday Inn Express Lisbon - Oeiras By IHG,2022,3.7142857142857144
+Holiday Inn Express Lisbon - Oeiras By IHG,2023,3.4
+Holiday Inn Express Lisbon - Oeiras By IHG,2024,3.272727272727273
+Holiday Inn Express Lisbon - Oeiras By IHG,2025,3.5
+Horta da Vila,2014,5.0
+Horta da Vila,2016,5.0
+Horta da Vila,2017,5.0
+Horta da Vila,2024,5.0
+Horta da Vila,2025,5.0
+Horta de Torrejais,2014,4.75
+Horta de Torrejais,2015,3.0
+Horta de Torrejais,2016,4.0
+Horta de Torrejais,2017,5.0
+Horta de Torrejais,2018,4.0
+Horta de Torrejais,2024,5.0
+Hotel Albergaria Dias,2004,5.0
+Hotel Albergaria Dias,2005,5.0
+Hotel Albergaria Dias,2006,1.0
+Hotel Albergaria Dias,2007,4.5
+Hotel Albergaria Dias,2008,4.2
+Hotel Albergaria Dias,2009,4.571428571428571
+Hotel Albergaria Dias,2010,4.3125
+Hotel Albergaria Dias,2011,4.361111111111111
+Hotel Albergaria Dias,2012,4.428571428571429
+Hotel Albergaria Dias,2013,4.416666666666667
+Hotel Albergaria Dias,2014,4.54
+Hotel Albergaria Dias,2015,4.5636363636363635
+Hotel Albergaria Dias,2016,4.633333333333334
+Hotel Albergaria Dias,2017,4.75
+Hotel Albergaria Dias,2018,3.8636363636363638
+Hotel Albergaria Dias,2019,4.875
+Hotel Albergaria Dias,2020,5.0
+Hotel Albergaria Dias,2021,4.125
+Hotel Albergaria Dias,2022,4.818181818181818
+Hotel Albergaria Dias,2023,4.421052631578948
+Hotel Albergaria Dias,2024,4.619047619047619
+Hotel Albergaria Dias,2025,4.782608695652174
+Hotel Alegria,2016,4.454545454545454
+Hotel Alegria,2017,4.387755102040816
+Hotel Alegria,2018,1.0
+Hotel Alegria,2020,5.0
+Hotel Alegria,2021,4.777777777777778
+Hotel Alegria,2022,4.333333333333333
+Hotel Alegria,2023,4.636363636363637
+Hotel Alegria,2024,4.75
+Hotel Alegria,2025,4.578947368421052
+Hotel Apartamentos Geres Ribeiro,2013,5.0
+Hotel Apartamentos Geres Ribeiro,2014,4.0
+Hotel Apartamentos Geres Ribeiro,2022,5.0
+Hotel Apartamentos Geres Ribeiro,2024,4.0
+Hotel Apartamentos Geres Ribeiro,2025,5.0
+Hotel Casa do Tua,2011,2.0
+Hotel Casa do Tua,2014,5.0
+Hotel Casa do Tua,2015,4.5
+Hotel Casa do Tua,2016,4.333333333333333
+Hotel Casa do Tua,2017,4.0
+Hotel Casa do Tua,2018,4.4
+Hotel Casa do Tua,2019,4.5
+Hotel Casa do Tua,2020,5.0
+Hotel Casa do Tua,2021,5.0
+Hotel Casa do Tua,2023,5.0
+Hotel Casa do Tua,2025,5.0
+Hotel Comercio,2014,3.5
+Hotel Comercio,2015,4.0
+Hotel Comercio,2017,2.0
+Hotel Comercio,2024,5.0
+Hotel Comercio,2025,2.0
+Hotel Convento de Sao Paulo,2002,5.0
+Hotel Convento de Sao Paulo,2006,4.0
+Hotel Convento de Sao Paulo,2007,4.0
+Hotel Convento de Sao Paulo,2009,5.0
+Hotel Convento de Sao Paulo,2010,5.0
+Hotel Convento de Sao Paulo,2011,4.0
+Hotel Convento de Sao Paulo,2012,4.25
+Hotel Convento de Sao Paulo,2013,4.428571428571429
+Hotel Convento de Sao Paulo,2014,4.0
+Hotel Convento de Sao Paulo,2015,3.8333333333333335
+Hotel Convento de Sao Paulo,2016,4.666666666666667
+Hotel Convento de Sao Paulo,2017,4.4
+Hotel Convento de Sao Paulo,2018,4.1875
+Hotel Convento de Sao Paulo,2019,4.6
+Hotel Convento de Sao Paulo,2020,2.5
+Hotel Convento de Sao Paulo,2022,3.5
+Hotel Convento de Sao Paulo,2023,4.3076923076923075
+Hotel Convento de Sao Paulo,2024,4.666666666666667
+Hotel Convento de Sao Paulo,2025,3.5
+Hotel Covilha Dona Maria Affiliated by Meliá,2007,3.5
+Hotel Covilha Dona Maria Affiliated by Meliá,2009,4.0
+Hotel Covilha Dona Maria Affiliated by Meliá,2010,4.333333333333333
+Hotel Covilha Dona Maria Affiliated by Meliá,2011,5.0
+Hotel Covilha Dona Maria Affiliated by Meliá,2012,4.142857142857143
+Hotel Covilha Dona Maria Affiliated by Meliá,2013,4.0
+Hotel Covilha Dona Maria Affiliated by Meliá,2014,4.0
+Hotel Covilha Dona Maria Affiliated by Meliá,2015,2.5
+Hotel Covilha Dona Maria Affiliated by Meliá,2016,4.0
+Hotel Covilha Dona Maria Affiliated by Meliá,2017,4.0
+Hotel Covilha Dona Maria Affiliated by Meliá,2018,4.2
+Hotel Covilha Dona Maria Affiliated by Meliá,2019,3.6666666666666665
+Hotel Covilha Dona Maria Affiliated by Meliá,2021,3.0
+Hotel Covilha Dona Maria Affiliated by Meliá,2022,4.5
+Hotel Covilha Dona Maria Affiliated by Meliá,2023,4.166666666666667
+Hotel Covilha Dona Maria Affiliated by Meliá,2024,3.5
+Hotel Covilha Dona Maria Affiliated by Meliá,2025,3.3333333333333335
+Hotel Cristal Porto,2016,4.4
+Hotel Cristal Porto,2017,4.027027027027027
+Hotel Cristal Porto,2018,4.32
+Hotel Cristal Porto,2019,4.043478260869565
+Hotel Cristal Porto,2020,4.153846153846154
+Hotel Cristal Porto,2021,4.0
+Hotel Cristal Porto,2022,3.9411764705882355
+Hotel Cristal Porto,2023,3.9565217391304346
+Hotel Cristal Porto,2024,4.129032258064516
+Hotel Cristal Porto,2025,4.416666666666667
+Hotel Dom Luis,2009,4.0
+Hotel Dom Luis,2011,4.0
+Hotel Dom Luis,2012,4.5
+Hotel Dom Luis,2013,3.5
+Hotel Dom Luis,2014,3.25
+Hotel Dom Luis,2015,3.7142857142857144
+Hotel Dom Luis,2016,3.6666666666666665
+Hotel Dom Luis,2017,3.8
+Hotel Dom Luis,2018,4.666666666666667
+Hotel Dom Luis,2019,4.0
+Hotel Dom Luis,2020,4.0
+Hotel Dom Luis,2022,4.5
+Hotel Dom Luis,2023,3.75
+Hotel Dom Luis,2025,4.0
+Hotel El Rei Dom Manuel,2006,5.0
+Hotel El Rei Dom Manuel,2007,3.6666666666666665
+Hotel El Rei Dom Manuel,2008,4.5
+Hotel El Rei Dom Manuel,2009,4.5
+Hotel El Rei Dom Manuel,2010,5.0
+Hotel El Rei Dom Manuel,2011,4.5
+Hotel El Rei Dom Manuel,2012,4.285714285714286
+Hotel El Rei Dom Manuel,2013,4.181818181818182
+Hotel El Rei Dom Manuel,2014,4.0
+Hotel El Rei Dom Manuel,2015,4.055555555555555
+Hotel El Rei Dom Manuel,2016,4.5
+Hotel El Rei Dom Manuel,2017,4.333333333333333
+Hotel El Rei Dom Manuel,2018,4.0
+Hotel El Rei Dom Manuel,2019,4.285714285714286
+Hotel El Rei Dom Manuel,2022,4.333333333333333
+Hotel El Rei Dom Manuel,2023,4.833333333333333
+Hotel El Rei Dom Manuel,2024,4.833333333333333
+Hotel El Rei Dom Manuel,2025,4.0
+Hotel Fátima,2004,4.0
+Hotel Fátima,2007,5.0
+Hotel Fátima,2009,4.0
+Hotel Fátima,2010,5.0
+Hotel Fátima,2011,3.6
+Hotel Fátima,2012,4.2
+Hotel Fátima,2013,3.875
+Hotel Fátima,2014,3.4444444444444446
+Hotel Fátima,2015,4.083333333333333
+Hotel Fátima,2016,4.5
+Hotel Fátima,2017,4.1923076923076925
+Hotel Fátima,2018,3.933333333333333
+Hotel Fátima,2019,4.142857142857143
+Hotel Fátima,2022,4.5
+Hotel Fátima,2023,3.5
+Hotel Fátima,2024,3.0
+Hotel Fátima,2025,4.2
+Hotel Gat Rossio,2009,4.0
+Hotel Gat Rossio,2010,3.933333333333333
+Hotel Gat Rossio,2011,3.5238095238095237
+Hotel Gat Rossio,2012,3.8823529411764706
+Hotel Gat Rossio,2013,4.0
+Hotel Gat Rossio,2014,3.7096774193548385
+Hotel Gat Rossio,2015,4.2
+Hotel Gat Rossio,2016,3.90625
+Hotel Gat Rossio,2017,4.076923076923077
+Hotel Gat Rossio,2018,3.9135802469135803
+Hotel Gat Rossio,2019,3.8666666666666667
+Hotel Gat Rossio,2020,4.666666666666667
+Hotel Gat Rossio,2021,3.5714285714285716
+Hotel Gat Rossio,2022,4.238095238095238
+Hotel Gat Rossio,2023,4.207407407407407
+Hotel Gat Rossio,2024,4.072164948453608
+Hotel Gat Rossio,2025,3.769230769230769
+Hotel Golf Mar,2009,3.0
+Hotel Golf Mar,2010,4.333333333333333
+Hotel Golf Mar,2011,3.25
+Hotel Golf Mar,2012,4.0
+Hotel Golf Mar,2013,2.8333333333333335
+Hotel Golf Mar,2014,3.2
+Hotel Golf Mar,2015,3.5
+Hotel Golf Mar,2016,3.75
+Hotel Golf Mar,2017,4.25
+Hotel Golf Mar,2018,3.25
+Hotel Golf Mar,2019,3.6666666666666665
+Hotel Golf Mar,2020,4.5
+Hotel Golf Mar,2021,2.0
+Hotel Golf Mar,2022,4.0
+Hotel Golf Mar,2023,3.0454545454545454
+Hotel Golf Mar,2024,3.75
+Hotel Golf Mar,2025,4.032258064516129
+Hotel Imperio do Norte,2016,4.0
+Hotel Imperio do Norte,2017,4.75
+Hotel Imperio do Norte,2018,4.714285714285714
+Hotel Imperio do Norte,2019,4.0
+Hotel Imperio do Norte,2020,5.0
+Hotel Imperio do Norte,2022,2.0
+Hotel Imperio do Norte,2023,3.0
+Hotel Imperio do Norte,2024,4.5
+Hotel Imperio do Norte,2025,3.75
+Hotel Jaguar,2023,4.538461538461538
+Hotel Jaguar,2024,4.666666666666667
+Hotel Jaguar,2025,4.571428571428571
+Hotel Madeira,2003,2.0
+Hotel Madeira,2004,2.0
+Hotel Madeira,2006,3.75
+Hotel Madeira,2007,5.0
+Hotel Madeira,2008,4.0
+Hotel Madeira,2009,4.0
+Hotel Madeira,2010,4.2
+Hotel Madeira,2011,4.25
+Hotel Madeira,2012,3.65
+Hotel Madeira,2013,3.5833333333333335
+Hotel Madeira,2014,4.314285714285714
+Hotel Madeira,2015,4.242424242424242
+Hotel Madeira,2016,4.0256410256410255
+Hotel Madeira,2017,3.8658536585365852
+Hotel Madeira,2018,3.9482758620689653
+Hotel Madeira,2019,4.255813953488372
+Hotel Madeira,2020,3.727272727272727
+Hotel Madeira,2021,4.0
+Hotel Madeira,2022,4.368421052631579
+Hotel Madeira,2023,4.0
+Hotel Madeira,2024,4.25
+Hotel Madeira,2025,3.761904761904762
+Hotel Mare,2005,5.0
+Hotel Mare,2007,4.0
+Hotel Mare,2008,4.0
+Hotel Mare,2009,4.0
+Hotel Mare,2010,3.5
+Hotel Mare,2011,3.0
+Hotel Mare,2012,3.0
+Hotel Mare,2013,4.0
+Hotel Mare,2014,3.875
+Hotel Mare,2015,4.0
+Hotel Mare,2016,3.8333333333333335
+Hotel Mare,2017,3.3636363636363638
+Hotel Mare,2018,4.0
+Hotel Mare,2019,3.7142857142857144
+Hotel Mare,2020,5.0
+Hotel Mare,2022,3.3333333333333335
+Hotel Mare,2023,4.0
+Hotel Mare,2024,4.25
+Hotel Mare,2025,3.6666666666666665
+Hotel Os Poetas,2016,5.0
+Hotel Os Poetas,2017,4.0
+Hotel Os Poetas,2018,5.0
+Hotel Os Poetas,2019,5.0
+Hotel Os Poetas,2022,4.0
+Hotel Os Poetas,2025,5.0
+Hotel Principe Lisboa,2004,4.5
+Hotel Principe Lisboa,2005,4.0
+Hotel Principe Lisboa,2006,4.0
+Hotel Principe Lisboa,2007,3.909090909090909
+Hotel Principe Lisboa,2008,4.375
+Hotel Principe Lisboa,2009,3.5384615384615383
+Hotel Principe Lisboa,2010,4.125
+Hotel Principe Lisboa,2011,3.736842105263158
+Hotel Principe Lisboa,2012,4.05
+Hotel Principe Lisboa,2013,4.4655172413793105
+Hotel Principe Lisboa,2014,4.06
+Hotel Principe Lisboa,2015,4.254237288135593
+Hotel Principe Lisboa,2016,4.212121212121212
+Hotel Principe Lisboa,2017,4.3125
+Hotel Principe Lisboa,2018,4.254901960784314
+Hotel Principe Lisboa,2019,4.041666666666667
+Hotel Principe Lisboa,2020,4.166666666666667
+Hotel Principe Lisboa,2021,4.0
+Hotel Principe Lisboa,2022,4.5
+Hotel Principe Lisboa,2023,4.125
+Hotel Principe Lisboa,2024,4.866666666666666
+Hotel Principe Lisboa,2025,4.384615384615385
+Hotel Rosa Mistica,2009,4.0
+Hotel Rosa Mistica,2011,5.0
+Hotel Rosa Mistica,2015,4.5
+Hotel Rosa Mistica,2016,4.5
+Hotel Rosa Mistica,2017,4.666666666666667
+Hotel Rosa Mistica,2018,4.333333333333333
+Hotel Rosa Mistica,2019,3.0
+Hotel Rosa Mistica,2022,5.0
+Hotel Rosa Mistica,2023,5.0
+Hotel Rosa Mistica,2024,2.0
+Hotel Rosa Mistica,2025,2.0
+Hotel The Cliff Bay,2025,4.600907029478458
+Hotel Travel Park Lisboa,2004,5.0
+Hotel Travel Park Lisboa,2005,4.2
+Hotel Travel Park Lisboa,2006,3.4166666666666665
+Hotel Travel Park Lisboa,2007,4.4
+Hotel Travel Park Lisboa,2008,4.0
+Hotel Travel Park Lisboa,2009,3.6666666666666665
+Hotel Travel Park Lisboa,2010,3.466666666666667
+Hotel Travel Park Lisboa,2011,4.714285714285714
+Hotel Travel Park Lisboa,2012,4.133333333333334
+Hotel Travel Park Lisboa,2013,4.130434782608695
+Hotel Travel Park Lisboa,2014,3.727272727272727
+Hotel Travel Park Lisboa,2015,3.84375
+Hotel Travel Park Lisboa,2016,4.16
+Hotel Travel Park Lisboa,2017,3.875
+Hotel Travel Park Lisboa,2018,3.888888888888889
+Hotel Travel Park Lisboa,2019,3.75
+Hotel Travel Park Lisboa,2021,3.5
+Hotel Travel Park Lisboa,2022,3.8
+Hotel Travel Park Lisboa,2023,3.7142857142857144
+Hotel Travel Park Lisboa,2024,3.6666666666666665
+Hotel Travel Park Lisboa,2025,3.9166666666666665
+Hotel Virgem Maria,2023,5.0
+Hotel Virgem Maria,2024,4.466666666666667
+Hotel do Parque,2005,3.0
+Hotel do Parque,2007,5.0
+Hotel do Parque,2012,3.0
+Hotel do Parque,2014,4.333333333333333
+Hotel do Parque,2015,3.6666666666666665
+Hotel do Parque,2016,3.8
+Hotel do Parque,2017,4.25
+Hotel do Parque,2018,3.5
+Hotel do Parque,2019,3.7142857142857144
+Hotel do Parque,2020,4.0
+Hotel do Parque,2021,4.0
+Hotel do Parque,2022,3.3333333333333335
+Hotel do Parque,2023,4.166666666666667
+Hotel do Parque,2025,4.333333333333333
+Hotel dos Templarios,2005,4.5
+Hotel dos Templarios,2006,4.6
+Hotel dos Templarios,2007,4.5
+Hotel dos Templarios,2008,4.0
+Hotel dos Templarios,2009,4.333333333333333
+Hotel dos Templarios,2010,3.8
+Hotel dos Templarios,2011,3.923076923076923
+Hotel dos Templarios,2012,4.241379310344827
+Hotel dos Templarios,2013,4.285714285714286
+Hotel dos Templarios,2014,4.236363636363636
+Hotel dos Templarios,2015,4.228571428571429
+Hotel dos Templarios,2016,4.246753246753247
+Hotel dos Templarios,2017,4.327868852459017
+Hotel dos Templarios,2018,4.203125
+Hotel dos Templarios,2019,4.1063829787234045
+Hotel dos Templarios,2020,4.461538461538462
+Hotel dos Templarios,2021,4.6
+Hotel dos Templarios,2022,4.294117647058823
+Hotel dos Templarios,2023,4.088235294117647
+Hotel dos Templarios,2024,4.321428571428571
+Hotel dos Templarios,2025,4.266666666666667
+Hyatt Regency Lisbon,2022,4.155172413793103
+Hyatt Regency Lisbon,2023,4.0814814814814815
+Hyatt Regency Lisbon,2024,4.162337662337662
+Hyatt Regency Lisbon,2025,4.172727272727273
+Independente Principe Real,2012,4.3
+Independente Principe Real,2013,4.560975609756097
+Independente Principe Real,2014,4.571428571428571
+Independente Principe Real,2015,4.078431372549019
+Independente Principe Real,2016,4.1
+Independente Principe Real,2017,3.6666666666666665
+Independente Principe Real,2018,4.130434782608695
+Independente Principe Real,2019,4.555555555555555
+Independente Principe Real,2020,4.2
+Independente Principe Real,2021,4.25
+Independente Principe Real,2022,4.2631578947368425
+Independente Principe Real,2023,3.1538461538461537
+Independente Principe Real,2024,3.888888888888889
+Independente Principe Real,2025,3.5
+Jupiter Albufeira Hotel - Family & Fun,2019,4.145228215767635
+Jupiter Albufeira Hotel - Family & Fun,2020,3.7954545454545454
+Jupiter Albufeira Hotel - Family & Fun,2021,4.061224489795919
+Jupiter Albufeira Hotel - Family & Fun,2022,3.9560067681895092
+Jupiter Albufeira Hotel - Family & Fun,2023,4.179442508710801
+Jupiter Albufeira Hotel - Family & Fun,2024,4.224137931034483
+Jupiter Albufeira Hotel - Family & Fun,2025,4.147058823529412
+Lab Hostel Nazaré,2015,4.666666666666667
+Lab Hostel Nazaré,2016,5.0
+Lab Hostel Nazaré,2017,5.0
+Lab Hostel Nazaré,2018,3.0
+Lab Hostel Nazaré,2019,4.75
+Lab Hostel Nazaré,2020,4.0
+Legendary Lisboa Suites,2003,1.0
+Legendary Lisboa Suites,2005,4.0
+Legendary Lisboa Suites,2006,4.166666666666667
+Legendary Lisboa Suites,2007,4.066666666666666
+Legendary Lisboa Suites,2008,4.142857142857143
+Legendary Lisboa Suites,2009,3.875
+Legendary Lisboa Suites,2010,3.8
+Legendary Lisboa Suites,2011,4.0
+Legendary Lisboa Suites,2012,3.875
+Legendary Lisboa Suites,2013,4.108108108108108
+Legendary Lisboa Suites,2014,4.181818181818182
+Legendary Lisboa Suites,2015,4.027027027027027
+Legendary Lisboa Suites,2016,4.27027027027027
+Legendary Lisboa Suites,2017,3.8857142857142857
+Legendary Lisboa Suites,2018,3.5384615384615383
+Legendary Lisboa Suites,2019,4.0
+Legendary Lisboa Suites,2020,5.0
+Legendary Lisboa Suites,2021,2.0
+Legendary Lisboa Suites,2022,3.625
+Legendary Lisboa Suites,2023,4.3
+Legendary Lisboa Suites,2024,4.076923076923077
+Legendary Lisboa Suites,2025,4.1
+Legends' House by Sweet Porto,2021,5.0
+Legends' House by Sweet Porto,2022,5.0
+Legends' House by Sweet Porto,2023,4.684210526315789
+Legends' House by Sweet Porto,2024,4.266666666666667
+Legends' House by Sweet Porto,2025,4.454545454545454
+Lindo Vale Guest House,2015,5.0
+Lindo Vale Guest House,2016,4.5
+Lindo Vale Guest House,2017,4.333333333333333
+Lindo Vale Guest House,2018,4.2
+Lindo Vale Guest House,2019,5.0
+Lindo Vale Guest House,2023,5.0
+Lisbon Destination Hostel,2011,4.7272727272727275
+Lisbon Destination Hostel,2012,4.388888888888889
+Lisbon Destination Hostel,2013,4.595744680851064
+Lisbon Destination Hostel,2014,4.747126436781609
+Lisbon Destination Hostel,2015,4.58125
+Lisbon Destination Hostel,2016,4.633802816901408
+Lisbon Destination Hostel,2017,4.612903225806452
+Lisbon Destination Hostel,2018,4.357142857142857
+Lisbon Destination Hostel,2019,4.5
+Lisbon Destination Hostel,2020,4.754098360655738
+Lisbon Destination Hostel,2021,3.2
+Lisbon Destination Hostel,2022,4.75
+Lisbon Destination Hostel,2023,4.780487804878049
+Lisbon Destination Hostel,2024,4.617647058823529
+Lisbon Destination Hostel,2025,4.783783783783784
+Lisbon Downtown Inn,2016,5.0
+Lisbon Downtown Inn,2017,4.25
+Lisbon Downtown Inn,2018,4.4
+Lisbon Downtown Inn,2019,3.25
+Lisbon Downtown Inn,2021,2.0
+Lisbon Downtown Inn,2022,4.0
+Lisbon Downtown Inn,2023,4.333333333333333
+Lisbon Downtown Inn,2024,4.333333333333333
+Lisbon Downtown Inn,2025,2.5
+Lisbon Happy Hostel,2011,4.0
+Lisbon Happy Hostel,2012,3.8
+Lisbon Happy Hostel,2013,2.0
+Lisbon Happy Hostel,2014,4.5
+Lisbon Happy Hostel,2015,4.0
+Lisbon Happy Hostel,2016,3.75
+Lisbon Happy Hostel,2017,3.25
+Lisbon Happy Hostel,2018,4.666666666666667
+Lisbon Happy Hostel,2019,3.0
+Lisbon Marriott Hotel,2003,4.5
+Lisbon Marriott Hotel,2004,3.0
+Lisbon Marriott Hotel,2005,3.4444444444444446
+Lisbon Marriott Hotel,2006,3.7777777777777777
+Lisbon Marriott Hotel,2007,4.230769230769231
+Lisbon Marriott Hotel,2008,3.6818181818181817
+Lisbon Marriott Hotel,2009,3.7666666666666666
+Lisbon Marriott Hotel,2010,3.533333333333333
+Lisbon Marriott Hotel,2011,3.739130434782609
+Lisbon Marriott Hotel,2012,3.5681818181818183
+Lisbon Marriott Hotel,2013,3.5238095238095237
+Lisbon Marriott Hotel,2014,3.551282051282051
+Lisbon Marriott Hotel,2015,3.7350993377483444
+Lisbon Marriott Hotel,2016,3.7412935323383083
+Lisbon Marriott Hotel,2017,3.672316384180791
+Lisbon Marriott Hotel,2018,3.65359477124183
+Lisbon Marriott Hotel,2019,3.7552447552447554
+Lisbon Marriott Hotel,2020,4.166666666666667
+Lisbon Marriott Hotel,2021,3.272727272727273
+Lisbon Marriott Hotel,2022,3.2222222222222223
+Lisbon Marriott Hotel,2023,3.392156862745098
+Lisbon Marriott Hotel,2024,3.86
+Lisbon Marriott Hotel,2025,3.5365853658536586
+Lisbon Style,2015,4.333333333333333
+Lisbon Style,2016,4.357142857142857
+Lisbon Style,2017,4.7272727272727275
+Lisbon Style,2018,4.285714285714286
+Lisbon Style,2019,4.142857142857143
+Lisbon Style,2022,4.5
+Lisbon Style,2024,5.0
+Lisbon Style,2025,1.0
+Living Santa Cruz,2017,5.0
+Living Santa Cruz,2018,4.285714285714286
+Living Santa Cruz,2019,4.0
+Longroiva Hotel Rural,2016,3.25
+Longroiva Hotel Rural,2017,4.0
+Longroiva Hotel Rural,2018,4.0
+Longroiva Hotel Rural,2019,3.0
+Longroiva Hotel Rural,2020,3.0
+Longroiva Hotel Rural,2022,3.5
+Longroiva Hotel Rural,2023,3.6
+Longroiva Hotel Rural,2024,4.083333333333333
+Longroiva Hotel Rural,2025,3.25
+Lua De Caldelas,2024,5.0
+Lua De Caldelas,2025,5.0
+Luna Clube Oceano,2006,3.0
+Luna Clube Oceano,2007,4.0
+Luna Clube Oceano,2008,3.4
+Luna Clube Oceano,2009,3.5
+Luna Clube Oceano,2010,4.461538461538462
+Luna Clube Oceano,2011,3.888888888888889
+Luna Clube Oceano,2012,4.12
+Luna Clube Oceano,2013,3.731707317073171
+Luna Clube Oceano,2014,3.8378378378378377
+Luna Clube Oceano,2015,4.271604938271605
+Luna Clube Oceano,2016,4.088495575221239
+Luna Clube Oceano,2017,3.656716417910448
+Luna Clube Oceano,2018,4.071428571428571
+Luna Clube Oceano,2019,3.8297872340425534
+Luna Clube Oceano,2020,2.0
+Luna Clube Oceano,2022,3.4285714285714284
+Luna Clube Oceano,2023,2.857142857142857
+Luna Clube Oceano,2024,2.5714285714285716
+Luna Clube Oceano,2025,2.625
+Luna Hotel Da Oura,2011,2.0
+Luna Hotel Da Oura,2012,3.0
+Luna Hotel Da Oura,2014,3.3333333333333335
+Luna Hotel Da Oura,2015,4.5
+Luna Hotel Da Oura,2016,3.9056603773584904
+Luna Hotel Da Oura,2017,3.6794871794871793
+Luna Hotel Da Oura,2018,3.6065573770491803
+Luna Hotel Da Oura,2019,3.9130434782608696
+Luna Hotel Da Oura,2020,2.923076923076923
+Luna Hotel Da Oura,2021,2.5
+Luna Hotel Da Oura,2022,2.4166666666666665
+Luna Hotel Da Oura,2023,2.6785714285714284
+Luna Hotel Da Oura,2024,2.875
+Luna Hotel Da Oura,2025,2.142857142857143
+Luna Parque B&B,2015,5.0
+Luna Parque B&B,2016,5.0
+Luna Parque B&B,2017,4.5
+M Maison Particuliere Porto,2016,4.538461538461538
+M Maison Particuliere Porto,2017,4.1
+M Maison Particuliere Porto,2018,4.7
+M Maison Particuliere Porto,2019,4.916666666666667
+M Maison Particuliere Porto,2020,4.75
+M Maison Particuliere Porto,2021,3.6666666666666665
+M Maison Particuliere Porto,2022,4.6
+M Maison Particuliere Porto,2023,5.0
+M Maison Particuliere Porto,2024,4.764705882352941
+M Maison Particuliere Porto,2025,4.8
+Macarico Beach Hotel,2014,4.25
+Macarico Beach Hotel,2015,4.8
+Macarico Beach Hotel,2016,3.857142857142857
+Macarico Beach Hotel,2017,4.0
+Macarico Beach Hotel,2018,3.2857142857142856
+Macarico Beach Hotel,2019,3.7142857142857144
+Macarico Beach Hotel,2020,4.0
+Macarico Beach Hotel,2021,5.0
+Macarico Beach Hotel,2022,5.0
+Macarico Beach Hotel,2023,4.166666666666667
+Macarico Beach Hotel,2024,3.625
+Macarico Beach Hotel,2025,3.857142857142857
+Mamaadama Alpaca Farm And B&b,2024,5.0
+Mamaadama Alpaca Farm And B&b,2025,5.0
+Mareta Beach House Boutique Residence,2018,4.4
+Mareta Beach House Boutique Residence,2019,2.75
+Mareta Beach House Boutique Residence,2020,2.0
+Mareta Beach House Boutique Residence,2021,4.0
+Mareta Beach House Boutique Residence,2022,4.5
+Mareta Beach House Boutique Residence,2023,3.5
+Mareta Beach House Boutique Residence,2024,5.0
+Mareta Beach House Boutique Residence,2025,4.0
+Mareta View Boutique Bed & Breakfast,2009,4.0
+Mareta View Boutique Bed & Breakfast,2010,3.3333333333333335
+Mareta View Boutique Bed & Breakfast,2011,4.125
+Mareta View Boutique Bed & Breakfast,2012,4.352941176470588
+Mareta View Boutique Bed & Breakfast,2013,4.0
+Mareta View Boutique Bed & Breakfast,2014,4.375
+Mareta View Boutique Bed & Breakfast,2015,4.0
+Mareta View Boutique Bed & Breakfast,2016,4.0
+Mareta View Boutique Bed & Breakfast,2017,3.6
+Mareta View Boutique Bed & Breakfast,2018,4.6875
+Mareta View Boutique Bed & Breakfast,2019,3.5
+Mareta View Boutique Bed & Breakfast,2020,4.6
+Mareta View Boutique Bed & Breakfast,2021,4.25
+Mareta View Boutique Bed & Breakfast,2022,4.6
+Mareta View Boutique Bed & Breakfast,2023,4.5
+Mareta View Boutique Bed & Breakfast,2024,4.7368421052631575
+Mareta View Boutique Bed & Breakfast,2025,3.9
+Maria Mar - Surf & Guest House,2015,4.857142857142857
+Maria Mar - Surf & Guest House,2016,5.0
+Maria Mar - Surf & Guest House,2017,4.6
+Maria Mar - Surf & Guest House,2018,4.8
+Mayer Apartments,2012,5.0
+Mayer Apartments,2013,5.0
+Mayer Apartments,2014,4.5
+Mayer Apartments,2015,3.0
+Mayer Apartments,2016,4.0
+Mayer Apartments,2017,4.333333333333333
+Mayer Apartments,2018,3.25
+Mayer Apartments,2019,5.0
+Memoria Porto FLH Hotels,2022,4.666666666666667
+Memoria Porto FLH Hotels,2023,4.733333333333333
+Memoria Porto FLH Hotels,2024,4.6923076923076925
+Memoria Porto FLH Hotels,2025,4.444444444444445
+Montargil Monte Novo,2015,5.0
+Montargil Monte Novo,2016,4.0
+Montargil Monte Novo,2019,5.0
+Montargil Monte Novo,2020,3.0
+Montargil Monte Novo,2021,5.0
+Montargil Monte Novo,2023,4.4
+Montargil Monte Novo,2024,4.4
+Montargil Monte Novo,2025,4.333333333333333
+Monte Joao Roupeiro,2011,4.0
+Monte Joao Roupeiro,2013,4.0
+Monte Joao Roupeiro,2014,5.0
+Monte Joao Roupeiro,2015,4.333333333333333
+Monte Joao Roupeiro,2016,5.0
+Monte Joao Roupeiro,2017,4.0
+Monte Joao Roupeiro,2019,4.333333333333333
+Monte Joao Roupeiro,2023,4.5
+Monte Joao Roupeiro,2024,5.0
+Monte Joao Roupeiro,2025,4.444444444444445
+Monte do Zeca,2012,5.0
+Monte do Zeca,2014,4.666666666666667
+Monte do Zeca,2015,4.333333333333333
+Monte do Zeca,2017,5.0
+Monte do Zeca,2019,3.0
+Monte do Zeca,2023,4.0
+Monte do Zeca,2024,3.0
+Monte do Zeca,2025,3.6666666666666665
+Montebelo Viseu Congress Hotel & Spa,2005,5.0
+Montebelo Viseu Congress Hotel & Spa,2007,4.0
+Montebelo Viseu Congress Hotel & Spa,2008,4.5
+Montebelo Viseu Congress Hotel & Spa,2009,4.5
+Montebelo Viseu Congress Hotel & Spa,2010,5.0
+Montebelo Viseu Congress Hotel & Spa,2011,3.5
+Montebelo Viseu Congress Hotel & Spa,2012,4.75
+Montebelo Viseu Congress Hotel & Spa,2013,5.0
+Montebelo Viseu Congress Hotel & Spa,2014,4.0
+Montebelo Viseu Congress Hotel & Spa,2015,3.8
+Montebelo Viseu Congress Hotel & Spa,2016,3.857142857142857
+Montebelo Viseu Congress Hotel & Spa,2017,4.0
+Montebelo Viseu Congress Hotel & Spa,2018,3.4444444444444446
+Montebelo Viseu Congress Hotel & Spa,2019,3.6
+Montebelo Viseu Congress Hotel & Spa,2020,3.0
+Montebelo Viseu Congress Hotel & Spa,2022,4.5
+Montebelo Viseu Congress Hotel & Spa,2023,4.0
+Montebelo Viseu Congress Hotel & Spa,2024,3.8333333333333335
+Montebelo Viseu Congress Hotel & Spa,2025,3.0
+Muthu Clube Praia Da Oura,2019,2.7958115183246073
+Muthu Clube Praia Da Oura,2020,3.2976190476190474
+Muthu Clube Praia Da Oura,2021,4.070422535211268
+Muthu Clube Praia Da Oura,2022,3.2794612794612794
+Muthu Clube Praia Da Oura,2023,3.4083601286173635
+Muthu Clube Praia Da Oura,2024,3.7171945701357467
+Muthu Clube Praia Da Oura,2025,3.8580121703853956
+Myriad By Sana,2012,4.666666666666667
+Myriad By Sana,2013,4.317073170731708
+Myriad By Sana,2014,4.5
+Myriad By Sana,2015,4.5479452054794525
+Myriad By Sana,2016,4.377777777777778
+Myriad By Sana,2017,4.245901639344262
+Myriad By Sana,2018,4.349206349206349
+Myriad By Sana,2019,4.293103448275862
+Myriad By Sana,2020,4.777777777777778
+Myriad By Sana,2021,4.666666666666667
+Myriad By Sana,2022,4.333333333333333
+Myriad By Sana,2023,4.318181818181818
+Myriad By Sana,2024,4.45945945945946
+Myriad By Sana,2025,4.09375
+Natura Algarve Club,2005,3.3333333333333335
+Natura Algarve Club,2006,3.75
+Natura Algarve Club,2007,3.7777777777777777
+Natura Algarve Club,2008,3.75
+Natura Algarve Club,2009,3.857142857142857
+Natura Algarve Club,2010,4.0588235294117645
+Natura Algarve Club,2011,3.710526315789474
+Natura Algarve Club,2012,4.0
+Natura Algarve Club,2013,4.0
+Natura Algarve Club,2014,3.9223300970873787
+Natura Algarve Club,2015,4.2
+Natura Algarve Club,2016,4.073529411764706
+Natura Algarve Club,2017,3.95
+Natura Algarve Club,2018,4.111111111111111
+Natura Algarve Club,2019,3.95959595959596
+Natura Algarve Club,2020,3.5833333333333335
+Natura Algarve Club,2021,4.4
+Natura Algarve Club,2022,4.274193548387097
+Natura Algarve Club,2023,4.375
+Natura Algarve Club,2024,3.6315789473684212
+Natura Algarve Club,2025,2.8823529411764706
+Noah Surf House,2018,4.571428571428571
+Noah Surf House,2019,4.535714285714286
+Noah Surf House,2020,4.625
+Noah Surf House,2021,4.6923076923076925
+Noah Surf House,2022,4.285714285714286
+Noah Surf House,2023,4.4375
+Noah Surf House,2024,4.75
+Noah Surf House,2025,4.785714285714286
+O Castelo Guest House,2009,5.0
+O Castelo Guest House,2010,5.0
+O Castelo Guest House,2011,3.6
+O Castelo Guest House,2012,5.0
+O Castelo Guest House,2013,3.9285714285714284
+O Castelo Guest House,2014,4.571428571428571
+O Castelo Guest House,2015,4.545454545454546
+O Castelo Guest House,2016,4.555555555555555
+O Castelo Guest House,2017,4.733333333333333
+O Castelo Guest House,2018,4.588235294117647
+O Castelo Guest House,2019,4.7
+O Castelo Guest House,2020,4.666666666666667
+O Castelo Guest House,2021,4.818181818181818
+O Castelo Guest House,2022,4.714285714285714
+O Castelo Guest House,2023,4.525
+O Castelo Guest House,2024,4.838709677419355
+O Castelo Guest House,2025,4.777777777777778
+Ocean Gardens,2006,4.0
+Ocean Gardens,2007,4.0
+Ocean Gardens,2008,4.166666666666667
+Ocean Gardens,2009,4.25
+Ocean Gardens,2010,4.142857142857143
+Ocean Gardens,2011,4.166666666666667
+Ocean Gardens,2012,3.6818181818181817
+Ocean Gardens,2013,3.8214285714285716
+Ocean Gardens,2014,4.111111111111111
+Ocean Gardens,2015,4.15
+Ocean Gardens,2016,4.108695652173913
+Ocean Gardens,2017,4.090909090909091
+Ocean Gardens,2018,3.5714285714285716
+Ocean Gardens,2019,4.2444444444444445
+Ocean Gardens,2020,4.0
+Ocean Gardens,2021,4.166666666666667
+Ocean Gardens,2022,4.0
+Ocean Gardens,2023,4.0
+Ocean Gardens,2024,4.5
+Ocean Gardens,2025,3.6
+Onyria Quinta da Marinha Hotel,2020,4.730769230769231
+Onyria Quinta da Marinha Hotel,2021,4.642857142857143
+Onyria Quinta da Marinha Hotel,2022,4.594936708860759
+Onyria Quinta da Marinha Hotel,2023,4.566037735849057
+Onyria Quinta da Marinha Hotel,2024,4.742647058823529
+Onyria Quinta da Marinha Hotel,2025,4.76
+Palacete Real Companhia do Cacau,2016,4.833333333333333
+Palacete Real Companhia do Cacau,2017,4.333333333333333
+Palacete Real Companhia do Cacau,2018,5.0
+Palacete Real Companhia do Cacau,2019,3.7142857142857144
+Palacete Real Companhia do Cacau,2021,3.75
+Palacete Real Companhia do Cacau,2024,4.875
+Palacete Real Companhia do Cacau,2025,5.0
+Palacio Vila Flor,2013,3.0
+Palacio Vila Flor,2014,4.6
+Palacio Vila Flor,2015,4.421052631578948
+Palacio Vila Flor,2016,4.666666666666667
+Palacio Vila Flor,2017,4.75
+Palacio Vila Flor,2018,2.3333333333333335
+Palacio Vila Flor,2019,3.75
+Park Hotel Porto Gaia,2009,4.0
+Park Hotel Porto Gaia,2010,4.25
+Park Hotel Porto Gaia,2011,3.5
+Park Hotel Porto Gaia,2012,3.0
+Park Hotel Porto Gaia,2013,4.0
+Park Hotel Porto Gaia,2014,3.8
+Park Hotel Porto Gaia,2015,4.0
+Park Hotel Porto Gaia,2016,4.0
+Park Hotel Porto Gaia,2017,4.0
+Park Hotel Porto Gaia,2018,4.5
+Park Hotel Porto Gaia,2019,4.5
+Park Hotel Porto Gaia,2020,1.0
+Park Hotel Porto Gaia,2021,5.0
+Park Hotel Porto Gaia,2022,3.0
+Park Hotel Porto Gaia,2023,3.1666666666666665
+Park Hotel Porto Gaia,2024,3.4444444444444446
+Park Hotel Porto Gaia,2025,4.333333333333333
+Park Hotel Porto Valongo,2011,5.0
+Park Hotel Porto Valongo,2012,2.5
+Park Hotel Porto Valongo,2013,4.0
+Park Hotel Porto Valongo,2014,3.5
+Park Hotel Porto Valongo,2015,4.0
+Park Hotel Porto Valongo,2016,4.25
+Park Hotel Porto Valongo,2018,4.0
+Park Hotel Porto Valongo,2019,4.0
+Park Hotel Porto Valongo,2021,1.0
+Park Hotel Porto Valongo,2022,5.0
+Park Hotel Porto Valongo,2023,3.6666666666666665
+Park Hotel Porto Valongo,2024,4.5
+Park Hotel Porto Valongo,2025,1.0
+Parque Campismo Ria Formosa,2014,4.333333333333333
+Parque Campismo Ria Formosa,2015,4.333333333333333
+Parque Campismo Ria Formosa,2016,3.6
+Parque Campismo Ria Formosa,2017,4.5
+Parque Campismo Ria Formosa,2018,3.6
+Parque Campismo Ria Formosa,2019,3.5
+Parque Campismo Ria Formosa,2021,3.0
+Parque Campismo Ria Formosa,2022,4.25
+Parque Campismo Ria Formosa,2023,2.5
+Parque Campismo Ria Formosa,2024,2.5
+Parque Campismo Ria Formosa,2025,3.5
+Parque de Campismo Municipal de Mira,2016,4.0
+Parque de Campismo Municipal de Mira,2018,5.0
+Parque de Campismo Municipal de Mira,2024,4.0
+Parque de Campismo Municipal de Mira,2025,4.5
+Pateo Lisbon Lounge Suites,2012,4.142857142857143
+Pateo Lisbon Lounge Suites,2013,4.5
+Pateo Lisbon Lounge Suites,2014,4.0
+Pateo Lisbon Lounge Suites,2015,4.4375
+Pateo Lisbon Lounge Suites,2016,4.733333333333333
+Pateo Lisbon Lounge Suites,2017,4.571428571428571
+Pateo Lisbon Lounge Suites,2018,4.166666666666667
+Pateo Lisbon Lounge Suites,2019,4.5
+Pateo Lisbon Lounge Suites,2020,5.0
+Pateo Lisbon Lounge Suites,2022,4.2
+Pateo Lisbon Lounge Suites,2023,3.6666666666666665
+Pateo Lisbon Lounge Suites,2024,4.0
+Pateo Lisbon Lounge Suites,2025,5.0
+Pedras do Mar Resort & Spa,2017,4.666666666666667
+Pedras do Mar Resort & Spa,2018,4.166666666666667
+Pedras do Mar Resort & Spa,2019,3.9782608695652173
+Pedras do Mar Resort & Spa,2020,4.0
+Pedras do Mar Resort & Spa,2021,4.4
+Pedras do Mar Resort & Spa,2022,4.0
+Pedras do Mar Resort & Spa,2023,3.0416666666666665
+Pedras do Mar Resort & Spa,2024,3.5
+Pedras do Mar Resort & Spa,2025,4.5
+Penedo da Saudade Suites & Hostel,2019,3.8
+Penedo da Saudade Suites & Hostel,2021,4.0
+Penedo da Saudade Suites & Hostel,2022,4.5
+Penedo da Saudade Suites & Hostel,2023,4.0
+Pensao Central,2012,5.0
+Pensao Central,2013,4.0
+Pensao Central,2014,5.0
+Pensao Central,2015,3.0
+Pensao Central,2016,4.428571428571429
+Pensao Central,2017,5.0
+Pensao Central,2018,4.0
+Pensao Central,2019,5.0
+Pensao Central,2020,4.0
+Pensao Central,2025,4.5
+Pensao Residencial Setubalense,2007,3.0
+Pensao Residencial Setubalense,2008,4.0
+Pensao Residencial Setubalense,2009,4.0
+Pensao Residencial Setubalense,2011,4.0
+Pensao Residencial Setubalense,2013,4.0
+Pensao Residencial Setubalense,2014,4.333333333333333
+Pensao Residencial Setubalense,2015,3.875
+Pensao Residencial Setubalense,2016,4.333333333333333
+Pensao Residencial Setubalense,2017,4.166666666666667
+Pensao Residencial Setubalense,2018,4.2
+Pensao Residencial Setubalense,2019,3.5
+Pensao Residencial Setubalense,2023,4.333333333333333
+Pensao Residencial Setubalense,2025,3.5
+PeraLux,2017,5.0
+PeraLux,2018,5.0
+PeraLux,2022,4.0
+PeraLux,2024,3.5
+Perola da Lagoa,2009,3.0
+Perola da Lagoa,2010,5.0
+Perola da Lagoa,2013,5.0
+Perola da Lagoa,2017,4.0
+Pestana Bahia Praia,2014,4.0
+Pestana Bahia Praia,2015,4.303030303030303
+Pestana Bahia Praia,2016,4.153846153846154
+Pestana Bahia Praia,2017,4.108108108108108
+Pestana Bahia Praia,2018,4.308641975308642
+Pestana Bahia Praia,2019,4.327868852459017
+Pestana Bahia Praia,2020,4.5
+Pestana Bahia Praia,2021,4.636363636363637
+Pestana Bahia Praia,2022,4.184210526315789
+Pestana Bahia Praia,2023,4.34375
+Pestana Bahia Praia,2024,4.403846153846154
+Pestana Bahia Praia,2025,4.670731707317073
+Pestana Viking,2005,2.8333333333333335
+Pestana Viking,2006,2.5
+Pestana Viking,2007,4.1
+Pestana Viking,2008,3.7857142857142856
+Pestana Viking,2009,3.6
+Pestana Viking,2010,4.0625
+Pestana Viking,2011,3.9310344827586206
+Pestana Viking,2012,3.763157894736842
+Pestana Viking,2013,3.896551724137931
+Pestana Viking,2014,3.857142857142857
+Pestana Viking,2015,3.8117647058823527
+Pestana Viking,2016,3.9302325581395348
+Pestana Viking,2017,3.646551724137931
+Pestana Viking,2018,3.59375
+Pestana Viking,2019,3.8878504672897196
+Pestana Viking,2020,3.727272727272727
+Pestana Viking,2021,3.9375
+Pestana Viking,2022,3.8125
+Pestana Viking,2023,4.141304347826087
+Pestana Viking,2024,4.062937062937063
+Pestana Viking,2025,4.235714285714286
+Pestana Vila Lido,2023,4.785714285714286
+Pestana Vila Lido,2024,4.177777777777778
+Pestana Vila Lido,2025,4.385714285714286
+"Pine Cliffs Ocean Suites, A Luxury Collection Resort & Spa",2016,3.6666666666666665
+"Pine Cliffs Ocean Suites, A Luxury Collection Resort & Spa",2017,4.057142857142857
+"Pine Cliffs Ocean Suites, A Luxury Collection Resort & Spa",2018,3.5128205128205128
+"Pine Cliffs Ocean Suites, A Luxury Collection Resort & Spa",2019,3.9166666666666665
+"Pine Cliffs Ocean Suites, A Luxury Collection Resort & Spa",2020,3.3333333333333335
+"Pine Cliffs Ocean Suites, A Luxury Collection Resort & Spa",2021,3.4545454545454546
+"Pine Cliffs Ocean Suites, A Luxury Collection Resort & Spa",2022,3.3333333333333335
+"Pine Cliffs Ocean Suites, A Luxury Collection Resort & Spa",2023,4.1
+"Pine Cliffs Ocean Suites, A Luxury Collection Resort & Spa",2024,3.6
+"Pine Cliffs Ocean Suites, A Luxury Collection Resort & Spa",2025,3.789473684210526
+Porto Cinema Apartments,2017,4.0
+Porto Cinema Apartments,2018,4.5
+Porto Cinema Apartments,2019,4.181818181818182
+Porto PalÃ¡cio Hotel by The Editory,2006,4.666666666666667
+Porto PalÃ¡cio Hotel by The Editory,2007,5.0
+Porto PalÃ¡cio Hotel by The Editory,2008,3.5
+Porto PalÃ¡cio Hotel by The Editory,2009,4.666666666666667
+Porto PalÃ¡cio Hotel by The Editory,2010,3.3333333333333335
+Porto PalÃ¡cio Hotel by The Editory,2011,4.4375
+Porto PalÃ¡cio Hotel by The Editory,2012,3.9565217391304346
+Porto PalÃ¡cio Hotel by The Editory,2013,3.9375
+Porto PalÃ¡cio Hotel by The Editory,2014,4.2
+Porto PalÃ¡cio Hotel by The Editory,2015,3.9375
+Porto PalÃ¡cio Hotel by The Editory,2016,3.7954545454545454
+Porto PalÃ¡cio Hotel by The Editory,2017,4.016949152542373
+Porto PalÃ¡cio Hotel by The Editory,2018,3.9411764705882355
+Porto PalÃ¡cio Hotel by The Editory,2019,4.0227272727272725
+Porto PalÃ¡cio Hotel by The Editory,2020,4.352941176470588
+Porto PalÃ¡cio Hotel by The Editory,2021,4.5
+Porto PalÃ¡cio Hotel by The Editory,2022,3.2
+Porto PalÃ¡cio Hotel by The Editory,2023,3.95
+Porto PalÃ¡cio Hotel by The Editory,2024,3.3684210526315788
+Porto PalÃ¡cio Hotel by The Editory,2025,3.5833333333333335
+Porto Pim Bay,2017,5.0
+Porto Pim Bay,2018,5.0
+Porto Pim Bay,2019,5.0
+PortoBay Liberdade,2015,4.268156424581005
+PortoBay Liberdade,2016,4.302702702702702
+PortoBay Liberdade,2017,4.18562874251497
+PortoBay Liberdade,2018,4.219178082191781
+PortoBay Liberdade,2019,4.066666666666666
+PortoBay Liberdade,2020,4.352941176470588
+PortoBay Liberdade,2021,4.705882352941177
+PortoBay Liberdade,2022,4.555555555555555
+PortoBay Liberdade,2023,4.354166666666667
+PortoBay Liberdade,2024,4.346774193548387
+PortoBay Liberdade,2025,4.4950495049504955
+PortoBay Serra Golf,2007,4.0
+PortoBay Serra Golf,2008,4.5
+PortoBay Serra Golf,2009,4.0
+PortoBay Serra Golf,2010,4.25
+PortoBay Serra Golf,2011,4.166666666666667
+PortoBay Serra Golf,2012,4.466666666666667
+PortoBay Serra Golf,2013,4.137931034482759
+PortoBay Serra Golf,2014,4.386363636363637
+PortoBay Serra Golf,2015,4.516129032258065
+PortoBay Serra Golf,2016,4.305555555555555
+PortoBay Serra Golf,2017,4.1923076923076925
+PortoBay Serra Golf,2018,4.388888888888889
+PortoBay Serra Golf,2019,4.333333333333333
+PortoBay Serra Golf,2020,4.666666666666667
+PortoBay Serra Golf,2021,3.5
+PortoBay Serra Golf,2022,4.277777777777778
+PortoBay Serra Golf,2023,4.551724137931035
+PortoBay Serra Golf,2024,4.5
+PortoBay Serra Golf,2025,4.545454545454546
+PortoSense,2012,4.615384615384615
+PortoSense,2013,4.4375
+PortoSense,2014,4.615384615384615
+PortoSense,2015,4.4
+PortoSense,2016,4.625
+PortoSense,2017,4.285714285714286
+PortoSense,2018,4.666666666666667
+PortoSense,2019,5.0
+PortoSense,2021,5.0
+PortoSense,2022,5.0
+PortoSense,2023,4.75
+PortoSense,2024,4.0
+PortoSense,2025,4.0
+Pousada Viseu,2018,4.4186046511627906
+Pousada Viseu,2019,4.24
+Pousada Viseu,2020,4.615384615384615
+Pousada Viseu,2021,4.052631578947368
+Pousada Viseu,2022,4.625
+Pousada Viseu,2023,4.5
+Pousada Viseu,2024,4.694444444444445
+Pousada Viseu,2025,4.5
+Pousada de Juventude de Viseu,2019,4.0
+Predicados do Douro Palace,2017,2.0
+Predicados do Douro Palace,2018,4.75
+Predicados do Douro Palace,2019,4.714285714285714
+Predicados do Douro Palace,2021,5.0
+Predicados do Douro Palace,2023,5.0
+Predicados do Douro Palace,2024,5.0
+Predicados do Douro Palace,2025,4.75
+Pure Fonte Velha Bed and Breakfast,2019,5.0
+Pure Fonte Velha Bed and Breakfast,2020,5.0
+Pure Fonte Velha Bed and Breakfast,2021,5.0
+Pure Fonte Velha Bed and Breakfast,2022,4.4
+Pure Fonte Velha Bed and Breakfast,2023,5.0
+Pure Fonte Velha Bed and Breakfast,2024,5.0
+Pure Fonte Velha Bed and Breakfast,2025,4.375
+Pátio Da Villa Coruche Guest House,2024,5.0
+Pátio Da Villa Coruche Guest House,2025,4.5
+Quinta Dos Oliveiras,2014,5.0
+Quinta Dos Oliveiras,2016,2.0
+Quinta Dos Oliveiras,2017,3.6666666666666665
+Quinta Dos Oliveiras,2019,4.0
+Quinta Dos Oliveiras,2025,4.0
+Quinta Lamosa Ecotourism,2017,5.0
+Quinta Lamosa Ecotourism,2018,4.5
+Quinta Lamosa Ecotourism,2019,1.0
+Quinta Lamosa Ecotourism,2024,4.75
+Quinta Mirabela,2005,4.5
+Quinta Mirabela,2006,3.888888888888889
+Quinta Mirabela,2007,3.0
+Quinta Mirabela,2008,3.8333333333333335
+Quinta Mirabela,2009,4.0
+Quinta Mirabela,2010,3.6666666666666665
+Quinta Mirabela,2011,4.375
+Quinta Mirabela,2012,4.0588235294117645
+Quinta Mirabela,2013,4.388888888888889
+Quinta Mirabela,2014,4.3076923076923075
+Quinta Mirabela,2015,3.5
+Quinta Mirabela,2016,3.5555555555555554
+Quinta Mirabela,2017,4.066666666666666
+Quinta Mirabela,2018,4.0
+Quinta Mirabela,2019,4.333333333333333
+Quinta Mirabela,2021,4.0
+Quinta Mirabela,2022,4.4
+Quinta Mirabela,2023,4.428571428571429
+Quinta Mirabela,2024,4.0
+Quinta Mirabela,2025,4.0
+Quinta Nova Winery House - Relais & Châteaux,2009,4.0
+Quinta Nova Winery House - Relais & Châteaux,2010,4.0
+Quinta Nova Winery House - Relais & Châteaux,2011,4.0
+Quinta Nova Winery House - Relais & Châteaux,2012,4.428571428571429
+Quinta Nova Winery House - Relais & Châteaux,2013,4.111111111111111
+Quinta Nova Winery House - Relais & Châteaux,2014,4.166666666666667
+Quinta Nova Winery House - Relais & Châteaux,2015,3.8947368421052633
+Quinta Nova Winery House - Relais & Châteaux,2016,4.2105263157894735
+Quinta Nova Winery House - Relais & Châteaux,2017,3.8260869565217392
+Quinta Nova Winery House - Relais & Châteaux,2018,4.0
+Quinta Nova Winery House - Relais & Châteaux,2019,3.9444444444444446
+Quinta Nova Winery House - Relais & Châteaux,2021,3.3333333333333335
+Quinta Nova Winery House - Relais & Châteaux,2022,3.9285714285714284
+Quinta Nova Winery House - Relais & Châteaux,2023,4.28125
+Quinta Nova Winery House - Relais & Châteaux,2024,4.6
+Quinta Nova Winery House - Relais & Châteaux,2025,4.363636363636363
+Quinta Paraiso da Mia,2009,4.0
+Quinta Paraiso da Mia,2011,5.0
+Quinta Paraiso da Mia,2014,5.0
+Quinta Paraiso da Mia,2016,3.3333333333333335
+Quinta Paraiso da Mia,2017,5.0
+Quinta Paraiso da Mia,2018,5.0
+Quinta Paraiso da Mia,2022,5.0
+Quinta Paraiso da Mia,2023,5.0
+Quinta Paraiso da Mia,2024,5.0
+Quinta Paraiso da Mia,2025,5.0
+Quinta PecÃªga,2019,4.0
+Quinta PecÃªga,2023,4.0
+Quinta PecÃªga,2024,5.0
+Quinta PecÃªga,2025,4.0
+Quinta Pedras de Baixo,2013,5.0
+Quinta Pedras de Baixo,2014,4.6
+Quinta Pedras de Baixo,2015,5.0
+Quinta Pedras de Baixo,2016,4.6
+Quinta Pedras de Baixo,2017,4.0
+Quinta Pedras de Baixo,2019,4.75
+Quinta Pedras de Baixo,2023,4.5
+Quinta das Achadas,2008,4.666666666666667
+Quinta das Achadas,2009,4.363636363636363
+Quinta das Achadas,2010,4.555555555555555
+Quinta das Achadas,2011,4.3076923076923075
+Quinta das Achadas,2012,4.266666666666667
+Quinta das Achadas,2013,4.722222222222222
+Quinta das Achadas,2014,4.8
+Quinta das Achadas,2015,4.461538461538462
+Quinta das Achadas,2016,4.583333333333333
+Quinta das Achadas,2017,4.777777777777778
+Quinta das Achadas,2018,4.6
+Quinta das Achadas,2019,4.583333333333333
+Quinta das Achadas,2020,5.0
+Quinta das Achadas,2021,4.0
+Quinta das Achadas,2022,4.25
+Quinta das Achadas,2023,3.6666666666666665
+Quinta das Achadas,2024,5.0
+Quinta das Achadas,2025,5.0
+Quinta de Anterronde-Agroturismo,2015,4.333333333333333
+Quinta de Anterronde-Agroturismo,2016,5.0
+Quinta de Anterronde-Agroturismo,2018,4.0
+Quinta de Anterronde-Agroturismo,2019,5.0
+Quinta de Anterronde-Agroturismo,2023,4.0
+Quinta de Anterronde-Agroturismo,2024,5.0
+Quinta de Anterronde-Agroturismo,2025,5.0
+Quinta de CasalMato,2016,4.666666666666667
+Quinta de CasalMato,2017,4.5
+Quinta de CasalMato,2018,5.0
+Quinta de CasalMato,2019,4.0
+Quinta de CasalMato,2021,5.0
+Quinta de CasalMato,2024,4.0
+Quinta de CasalMato,2025,5.0
+Quinta de Lourosa,2015,5.0
+Quinta de Lourosa,2016,4.5
+Quinta de Lourosa,2018,5.0
+Quinta de Lourosa,2019,5.0
+Quinta de Lourosa,2023,5.0
+Quinta de Lourosa,2024,4.833333333333333
+Quinta de Lourosa,2025,4.75
+Quinta de São Tomé,2022,5.0
+Quinta de São Tomé,2024,5.0
+Quinta de São Tomé,2025,4.666666666666667
+Quinta do Furão,2007,4.0
+Quinta do Furão,2008,3.6666666666666665
+Quinta do Furão,2009,4.3
+Quinta do Furão,2010,4.2
+Quinta do Furão,2011,4.761904761904762
+Quinta do Furão,2012,4.688888888888889
+Quinta do Furão,2013,4.642857142857143
+Quinta do Furão,2014,4.32
+Quinta do Furão,2015,4.315789473684211
+Quinta do Furão,2016,4.428571428571429
+Quinta do Furão,2017,4.52
+Quinta do Furão,2018,4.659090909090909
+Quinta do Furão,2019,4.627906976744186
+Quinta do Furão,2020,4.666666666666667
+Quinta do Furão,2021,4.8125
+Quinta do Furão,2022,4.612903225806452
+Quinta do Furão,2023,4.7976190476190474
+Quinta do Furão,2024,4.6
+Quinta do Furão,2025,4.479166666666667
+Quinta do Mel,2009,5.0
+Quinta do Mel,2010,4.5
+Quinta do Mel,2012,5.0
+Quinta do Mel,2013,4.4
+Quinta do Mel,2014,4.666666666666667
+Quinta do Mel,2015,4.571428571428571
+Quinta do Mel,2016,4.6
+Quinta do Mel,2017,4.75
+Quinta do Mel,2018,3.8333333333333335
+Quinta do Mel,2019,2.0
+Quinta do Mel,2020,2.0
+Quinta do Mel,2022,3.5
+Quinta do Mel,2023,2.6666666666666665
+Quinta do Mel,2024,3.125
+Quinta do Mel,2025,3.0
+Quinta do Mirante - ANC Resort,2010,4.5
+Quinta do Mirante - ANC Resort,2011,3.0
+Quinta do Mirante - ANC Resort,2014,5.0
+Quinta do Mirante - ANC Resort,2016,4.0
+Quinta do Mirante - ANC Resort,2017,4.5
+Quinta do Mirante - ANC Resort,2018,4.0
+Quinta do Mirante - ANC Resort,2019,4.666666666666667
+Quinta do Mirante - ANC Resort,2020,2.0
+Quinta do Mirante - ANC Resort,2021,4.5
+Quinta do Mirante - ANC Resort,2022,4.0
+Quinta do Mirante - ANC Resort,2023,3.0
+Quinta do Mirante - ANC Resort,2024,4.5
+Quinta do Mirante - ANC Resort,2025,4.0
+Quinta do Morgado - Monte da Eira Apartments,2007,4.0
+Quinta do Morgado - Monte da Eira Apartments,2008,4.0
+Quinta do Morgado - Monte da Eira Apartments,2010,5.0
+Quinta do Morgado - Monte da Eira Apartments,2012,3.75
+Quinta do Morgado - Monte da Eira Apartments,2013,4.5
+Quinta do Morgado - Monte da Eira Apartments,2014,5.0
+Quinta do Morgado - Monte da Eira Apartments,2015,3.3333333333333335
+Quinta do Morgado - Monte da Eira Apartments,2016,4.0
+Quinta do Morgado - Monte da Eira Apartments,2017,2.6666666666666665
+Quinta do Morgado - Monte da Eira Apartments,2018,4.0
+Quinta do Morgado - Monte da Eira Apartments,2022,3.0
+Quinta do Morgado - Monte da Eira Apartments,2023,5.0
+Quinta do Morgado - Monte da Eira Apartments,2024,4.0
+Quinta do Morgado - Monte da Eira Apartments,2025,4.090909090909091
+Quinta do Vale do Monte,2011,5.0
+Quinta do Vale do Monte,2013,4.0
+Quinta do Vale do Monte,2014,5.0
+Quinta do Vale do Monte,2016,5.0
+Quinta do Vale do Monte,2017,5.0
+Quinta do Vale do Monte,2022,5.0
+Quinta do Vale do Monte,2023,5.0
+RIA CENTRUM,2023,4.0
+RIA CENTRUM,2024,5.0
+RIA CENTRUM,2025,4.75
+"Reid's Palace, A Belmond Hotel, Madeira",2016,4.387596899224806
+"Reid's Palace, A Belmond Hotel, Madeira",2017,4.427777777777778
+"Reid's Palace, A Belmond Hotel, Madeira",2018,4.448863636363637
+"Reid's Palace, A Belmond Hotel, Madeira",2019,4.436548223350254
+"Reid's Palace, A Belmond Hotel, Madeira",2020,3.9545454545454546
+"Reid's Palace, A Belmond Hotel, Madeira",2021,4.310344827586207
+"Reid's Palace, A Belmond Hotel, Madeira",2022,4.407608695652174
+"Reid's Palace, A Belmond Hotel, Madeira",2023,4.568181818181818
+"Reid's Palace, A Belmond Hotel, Madeira",2024,4.561797752808989
+"Reid's Palace, A Belmond Hotel, Madeira",2025,4.50920245398773
+Residencia Quinta do Poco,2013,5.0
+Residencia Quinta do Poco,2014,4.555555555555555
+Residencia Quinta do Poco,2015,4.6
+Residencia Quinta do Poco,2016,4.0
+Residencia Quinta do Poco,2017,4.0
+Residencia Quinta do Poco,2021,5.0
+Residencia Quinta do Poco,2025,5.0
+Residencial Londrina,2008,4.0
+Residencial Londrina,2010,4.0
+Residencial Londrina,2012,5.0
+Residencial Londrina,2013,4.333333333333333
+Residencial Londrina,2014,3.0
+Residencial Londrina,2015,3.7142857142857144
+Residencial Londrina,2016,4.0
+Residencial Londrina,2017,4.333333333333333
+Residencial Londrina,2018,4.25
+Residencial Londrina,2019,4.5
+Riversuites,2013,4.222222222222222
+Riversuites,2014,4.444444444444445
+Riversuites,2015,3.75
+Riversuites,2016,4.130434782608695
+Riversuites,2017,4.0
+Riversuites,2018,3.6666666666666665
+Riversuites,2019,3.8
+Riversuites,2020,5.0
+Riversuites,2021,4.5
+Riversuites,2022,4.0
+Riversuites,2023,2.0
+Riversuites,2024,3.8333333333333335
+Riversuites,2025,1.0
+Rochavau Hotel,2023,4.709677419354839
+Rochavau Hotel,2024,4.651515151515151
+Rochavau Hotel,2025,4.5978260869565215
+Romantik Villa,2017,4.6
+Romantik Villa,2018,4.666666666666667
+Romantik Villa,2019,4.6923076923076925
+Romantik Villa,2020,5.0
+Romantik Villa,2021,5.0
+Romantik Villa,2022,5.0
+Romantik Villa,2023,3.3333333333333335
+Romantik Villa,2024,5.0
+Romantik Villa,2025,4.666666666666667
+Rossio Hotel,2012,5.0
+Rossio Hotel,2013,5.0
+Rossio Hotel,2014,4.0
+Rossio Hotel,2015,3.5
+Rossio Hotel,2016,4.666666666666667
+Rossio Hotel,2017,4.333333333333333
+Rossio Hotel,2019,5.0
+Rossio Hotel,2020,4.0
+Rossio Hotel,2021,4.5
+Rossio Hotel,2022,1.0
+Rossio Hotel,2023,4.0
+Rossio Hotel,2024,3.2
+Royal Savoy Hotel,2003,5.0
+Royal Savoy Hotel,2004,4.666666666666667
+Royal Savoy Hotel,2005,4.8
+Royal Savoy Hotel,2006,4.125
+Royal Savoy Hotel,2007,3.888888888888889
+Royal Savoy Hotel,2008,3.75
+Royal Savoy Hotel,2009,3.9
+Royal Savoy Hotel,2010,4.0
+Royal Savoy Hotel,2011,3.7142857142857144
+Royal Savoy Hotel,2012,4.1521739130434785
+Royal Savoy Hotel,2013,3.981132075471698
+Royal Savoy Hotel,2014,4.304347826086956
+Royal Savoy Hotel,2015,4.25
+Royal Savoy Hotel,2016,4.296969696969697
+Royal Savoy Hotel,2017,4.541666666666667
+Royal Savoy Hotel,2018,4.253164556962025
+Royal Savoy Hotel,2019,4.098039215686274
+Royal Savoy Hotel,2020,3.909090909090909
+Royal Savoy Hotel,2021,4.103448275862069
+Royal Savoy Hotel,2022,4.546511627906977
+Royal Savoy Hotel,2023,4.454545454545454
+Royal Savoy Hotel,2024,4.454545454545454
+Royal Savoy Hotel,2025,4.517241379310345
+SANA Capitol Hotel,2003,1.6666666666666667
+SANA Capitol Hotel,2004,2.3333333333333335
+SANA Capitol Hotel,2005,4.0
+SANA Capitol Hotel,2008,3.0
+SANA Capitol Hotel,2009,3.5
+SANA Capitol Hotel,2010,4.0
+SANA Capitol Hotel,2011,3.8333333333333335
+SANA Capitol Hotel,2012,4.0
+SANA Capitol Hotel,2013,4.151515151515151
+SANA Capitol Hotel,2014,4.214285714285714
+SANA Capitol Hotel,2015,4.2727272727272725
+SANA Capitol Hotel,2016,4.266666666666667
+SANA Capitol Hotel,2017,3.9523809523809526
+SANA Capitol Hotel,2018,4.2727272727272725
+SANA Capitol Hotel,2019,3.9166666666666665
+SANA Capitol Hotel,2020,3.0
+SANA Capitol Hotel,2021,4.0
+SANA Capitol Hotel,2022,4.0
+SANA Capitol Hotel,2023,3.6923076923076925
+SANA Capitol Hotel,2024,4.5625
+SANA Capitol Hotel,2025,3.5
+"SDivine Fatima Hotel, Congress & Spirituality",2021,5.0
+"SDivine Fatima Hotel, Congress & Spirituality",2023,5.0
+"SDivine Fatima Hotel, Congress & Spirituality",2024,4.0
+"SDivine Fatima Hotel, Congress & Spirituality",2025,5.0
+Saccharum,2015,3.9315068493150687
+Saccharum,2016,3.9669811320754715
+Saccharum,2017,4.0
+Saccharum,2018,4.198473282442748
+Saccharum,2019,4.264705882352941
+Saccharum,2020,4.296296296296297
+Saccharum,2021,4.198198198198198
+Saccharum,2022,4.393782383419689
+Saccharum,2023,4.424242424242424
+Saccharum,2024,4.02013422818792
+Saccharum,2025,3.9711538461538463
+Sant Jordi Hostels Lisbon,2020,4.75
+Sant Jordi Hostels Lisbon,2022,4.408163265306122
+Sant Jordi Hostels Lisbon,2023,4.555555555555555
+Sant Jordi Hostels Lisbon,2024,4.470588235294118
+Sant Jordi Hostels Lisbon,2025,3.5
+Shining View,2013,4.2
+Shining View,2014,5.0
+Shining View,2015,4.571428571428571
+Shining View,2016,4.5
+Shining View,2017,4.416666666666667
+Shining View,2018,4.875
+Shining View,2019,5.0
+Shining View,2021,4.666666666666667
+Shining View,2025,5.0
+Sintra Marmoris Camelia,2023,4.9
+Sintra Marmoris Camelia,2024,4.7272727272727275
+Sintra Marmoris Camelia,2025,4.833333333333333
+Sol da Vila,2013,5.0
+Sol da Vila,2014,4.6
+Sol da Vila,2015,4.166666666666667
+Sol da Vila,2016,3.5
+Sol da Vila,2017,4.666666666666667
+Sol da Vila,2018,4.0
+Sol da Vila,2019,4.0
+Sol da Vila,2021,4.0
+Sol da Vila,2022,4.5
+Sol da Vila,2023,4.333333333333333
+Sol da Vila,2024,4.4
+Sol da Vila,2025,4.333333333333333
+Solar Dos Cáceres,2017,5.0
+Solar Dos Cáceres,2019,5.0
+Solar Dos Cáceres,2021,4.0
+Solar Dos Cáceres,2022,5.0
+Solar Dos Cáceres,2023,4.0
+Solar Dos Cáceres,2024,4.5
+Solar da Campina Turismo Rural,2013,5.0
+Solar da Campina Turismo Rural,2014,4.333333333333333
+Solar da Campina Turismo Rural,2015,5.0
+Solar da Campina Turismo Rural,2016,5.0
+Solar da Campina Turismo Rural,2017,3.5
+Solar da Campina Turismo Rural,2018,4.0
+Solar dos Poetas,2019,3.0
+Solar dos Poetas,2020,2.75
+Solar dos Poetas,2021,4.0
+Solar dos Poetas,2022,4.5
+Solar dos Poetas,2023,4.133333333333334
+Solar dos Poetas,2024,4.3
+Solar dos Poetas,2025,4.4
+SoulSurfcamp,2015,4.5
+SoulSurfcamp,2017,4.666666666666667
+SoulSurfcamp,2018,5.0
+SoulSurfcamp,2020,5.0
+SoulSurfcamp,2023,1.0
+SoulSurfcamp,2024,2.0
+SoulSurfcamp,2025,5.0
+Spot Apartments Trindade,2018,5.0
+Spot Apartments Trindade,2019,4.571428571428571
+Spot Apartments Trindade,2020,4.5
+Spot Apartments Trindade,2022,5.0
+Spot Apartments Trindade,2024,4.0
+Spot Apartments Trindade,2025,4.0
+São Lourenço do Barrocal,2016,4.583333333333333
+São Lourenço do Barrocal,2017,4.363636363636363
+São Lourenço do Barrocal,2018,4.314285714285714
+São Lourenço do Barrocal,2019,4.56
+São Lourenço do Barrocal,2020,4.2727272727272725
+São Lourenço do Barrocal,2021,4.333333333333333
+São Lourenço do Barrocal,2022,4.625
+São Lourenço do Barrocal,2023,4.666666666666667
+São Lourenço do Barrocal,2024,4.851063829787234
+São Lourenço do Barrocal,2025,4.925
+The Boliqueime Inn Hotel,2008,5.0
+The Boliqueime Inn Hotel,2009,4.4
+The Boliqueime Inn Hotel,2010,4.0
+The Boliqueime Inn Hotel,2011,3.5
+The Boliqueime Inn Hotel,2012,4.3125
+The Boliqueime Inn Hotel,2013,4.333333333333333
+The Boliqueime Inn Hotel,2014,4.833333333333333
+The Boliqueime Inn Hotel,2015,4.4375
+The Boliqueime Inn Hotel,2016,4.4
+The Boliqueime Inn Hotel,2017,4.434782608695652
+The Boliqueime Inn Hotel,2018,4.888888888888889
+The Boliqueime Inn Hotel,2019,4.6
+The Boliqueime Inn Hotel,2020,5.0
+The Boliqueime Inn Hotel,2025,5.0
+The Maverick Surf & Guest House,2014,5.0
+The Maverick Surf & Guest House,2015,5.0
+The Maverick Surf & Guest House,2016,4.5
+The Maverick Surf & Guest House,2017,5.0
+The Maverick Surf & Guest House,2018,5.0
+The Maverick Surf & Guest House,2019,4.0
+The Maverick Surf & Guest House,2020,5.0
+The Maverick Surf & Guest House,2024,1.0
+The Maverick Surf & Guest House,2025,4.5
+"The View – Santo Antonio Villas, Golf & Spa",2008,4.0
+"The View – Santo Antonio Villas, Golf & Spa",2009,3.0
+"The View – Santo Antonio Villas, Golf & Spa",2010,4.0
+"The View – Santo Antonio Villas, Golf & Spa",2011,4.2
+"The View – Santo Antonio Villas, Golf & Spa",2012,5.0
+"The View – Santo Antonio Villas, Golf & Spa",2013,4.5
+"The View – Santo Antonio Villas, Golf & Spa",2014,5.0
+"The View – Santo Antonio Villas, Golf & Spa",2015,4.75
+"The View – Santo Antonio Villas, Golf & Spa",2016,3.8333333333333335
+"The View – Santo Antonio Villas, Golf & Spa",2017,5.0
+"The View – Santo Antonio Villas, Golf & Spa",2018,4.5
+"The View – Santo Antonio Villas, Golf & Spa",2019,4.5
+"The View – Santo Antonio Villas, Golf & Spa",2023,4.0
+"The View – Santo Antonio Villas, Golf & Spa",2025,5.0
+The Vine House - Quinta São Luiz,2023,3.5
+The Vine House - Quinta São Luiz,2024,4.6
+The Vine House - Quinta São Luiz,2025,4.0
+Three Houses Apartments,2014,5.0
+Three Houses Apartments,2015,4.6
+Three Houses Apartments,2016,4.0
+Three Houses Apartments,2017,4.166666666666667
+Three Houses Apartments,2018,4.5
+Three Houses Apartments,2019,4.0
+Three Houses Apartments,2023,5.0
+Three Houses Apartments,2024,4.5
+Tivoli Carvoeiro Algarve Resort,2015,4.242774566473988
+Tivoli Carvoeiro Algarve Resort,2016,4.019471488178025
+Tivoli Carvoeiro Algarve Resort,2017,3.68013468013468
+Tivoli Carvoeiro Algarve Resort,2018,4.219745222929936
+Tivoli Carvoeiro Algarve Resort,2019,4.127450980392157
+Tivoli Carvoeiro Algarve Resort,2020,3.5142857142857142
+Tivoli Carvoeiro Algarve Resort,2021,3.807017543859649
+Tivoli Carvoeiro Algarve Resort,2022,3.991869918699187
+Tivoli Carvoeiro Algarve Resort,2023,4.23489932885906
+Tivoli Carvoeiro Algarve Resort,2024,4.275109170305677
+Tivoli Carvoeiro Algarve Resort,2025,4.270742358078603
+Tivoli Kopke Porto Gaia Hotel,2025,4.778761061946903
+Torel Palace Porto,2020,4.4
+Torel Palace Porto,2021,4.738095238095238
+Torel Palace Porto,2022,4.630769230769231
+Torel Palace Porto,2023,4.7073170731707314
+Torel Palace Porto,2024,4.8584905660377355
+Torel Palace Porto,2025,4.903225806451613
+Turim Algarve Mor Hotel,2007,4.333333333333333
+Turim Algarve Mor Hotel,2008,3.0
+Turim Algarve Mor Hotel,2010,5.0
+Turim Algarve Mor Hotel,2011,4.0
+Turim Algarve Mor Hotel,2012,4.0
+Turim Algarve Mor Hotel,2013,3.6
+Turim Algarve Mor Hotel,2014,3.4
+Turim Algarve Mor Hotel,2015,2.0
+Turim Algarve Mor Hotel,2016,4.2727272727272725
+Turim Algarve Mor Hotel,2017,3.875
+Turim Algarve Mor Hotel,2018,3.5
+Turim Algarve Mor Hotel,2019,2.0
+Turim Algarve Mor Hotel,2020,2.0
+Turim Algarve Mor Hotel,2021,1.0
+Turim Algarve Mor Hotel,2022,3.0
+Turim Algarve Mor Hotel,2023,3.0
+Turim Algarve Mor Hotel,2024,3.6
+Turim Algarve Mor Hotel,2025,3.466666666666667
+Turim Marques Hotel,2017,3.971830985915493
+Turim Marques Hotel,2018,4.25
+Turim Marques Hotel,2019,3.979591836734694
+Turim Marques Hotel,2020,3.5
+Turim Marques Hotel,2021,2.75
+Turim Marques Hotel,2022,2.9375
+Turim Marques Hotel,2023,2.9642857142857144
+Turim Marques Hotel,2024,3.3333333333333335
+Turim Marques Hotel,2025,3.111111111111111
+Upon Vila - Alcochete Hotel,2023,5.0
+Upon Vila - Alcochete Hotel,2024,4.527272727272727
+Upon Vila - Alcochete Hotel,2025,4.518518518518518
+Valverde Lisboa Hotel & Garden - Relais & Châteaux,2014,4.857142857142857
+Valverde Lisboa Hotel & Garden - Relais & Châteaux,2015,4.643478260869565
+Valverde Lisboa Hotel & Garden - Relais & Châteaux,2016,4.527397260273973
+Valverde Lisboa Hotel & Garden - Relais & Châteaux,2017,4.473684210526316
+Valverde Lisboa Hotel & Garden - Relais & Châteaux,2018,4.53125
+Valverde Lisboa Hotel & Garden - Relais & Châteaux,2019,4.547008547008547
+Valverde Lisboa Hotel & Garden - Relais & Châteaux,2020,4.95
+Valverde Lisboa Hotel & Garden - Relais & Châteaux,2021,4.7073170731707314
+Valverde Lisboa Hotel & Garden - Relais & Châteaux,2022,4.424242424242424
+Valverde Lisboa Hotel & Garden - Relais & Châteaux,2023,4.64
+Valverde Lisboa Hotel & Garden - Relais & Châteaux,2024,4.666666666666667
+Valverde Lisboa Hotel & Garden - Relais & Châteaux,2025,4.315789473684211
+Varzinn Hotel,2009,4.5
+Varzinn Hotel,2010,5.0
+Varzinn Hotel,2011,4.8
+Varzinn Hotel,2012,5.0
+Varzinn Hotel,2013,2.0
+Varzinn Hotel,2014,3.6666666666666665
+Varzinn Hotel,2015,4.666666666666667
+Varzinn Hotel,2016,4.25
+Varzinn Hotel,2017,5.0
+Varzinn Hotel,2018,5.0
+Varzinn Hotel,2019,5.0
+Varzinn Hotel,2020,4.0
+Varzinn Hotel,2022,5.0
+Varzinn Hotel,2023,5.0
+Varzinn Hotel,2024,4.25
+Varzinn Hotel,2025,4.0
+Vila Camacho Guest House,2022,4.4
+Vila Camacho Guest House,2023,4.666666666666667
+Vila Camacho Guest House,2024,4.75
+Vila Camacho Guest House,2025,4.0
+Vila Gale Collection Braga,2018,4.285714285714286
+Vila Gale Collection Braga,2019,4.368421052631579
+Vila Gale Collection Braga,2020,4.0
+Vila Gale Collection Braga,2021,3.5
+Vila Gale Collection Braga,2022,3.7142857142857144
+Vila Gale Collection Braga,2023,4.157894736842105
+Vila Gale Collection Braga,2024,4.157894736842105
+Vila Gale Collection Braga,2025,4.318181818181818
+Vila Gale Nep Kids,2023,4.414634146341464
+Vila Gale Nep Kids,2024,4.513513513513513
+Vila Gale Nep Kids,2025,4.546666666666667
+Vila Gale Porto Ribeira,2017,4.0
+Vila Gale Porto Ribeira,2018,4.324324324324325
+Vila Gale Porto Ribeira,2019,3.526315789473684
+Vila Gale Porto Ribeira,2020,4.75
+Vila Gale Porto Ribeira,2021,5.0
+Vila Gale Porto Ribeira,2022,3.888888888888889
+Vila Gale Porto Ribeira,2023,4.375
+Vila Gale Porto Ribeira,2024,4.4
+Vila Gale Porto Ribeira,2025,4.304347826086956
+Vila GalÃ© Tavira,2004,3.0
+Vila GalÃ© Tavira,2005,4.0
+Vila GalÃ© Tavira,2006,3.740740740740741
+Vila GalÃ© Tavira,2007,3.735294117647059
+Vila GalÃ© Tavira,2008,3.4
+Vila GalÃ© Tavira,2009,3.9545454545454546
+Vila GalÃ© Tavira,2010,3.789473684210526
+Vila GalÃ© Tavira,2011,3.869565217391304
+Vila GalÃ© Tavira,2012,3.661764705882353
+Vila GalÃ© Tavira,2013,3.638888888888889
+Vila GalÃ© Tavira,2014,3.810344827586207
+Vila GalÃ© Tavira,2015,3.80327868852459
+Vila GalÃ© Tavira,2016,3.7529411764705882
+Vila GalÃ© Tavira,2017,3.816901408450704
+Vila GalÃ© Tavira,2018,3.8285714285714287
+Vila GalÃ© Tavira,2019,4.015625
+Vila GalÃ© Tavira,2020,2.857142857142857
+Vila GalÃ© Tavira,2021,4.75
+Vila GalÃ© Tavira,2022,3.9722222222222223
+Vila GalÃ© Tavira,2023,3.7419354838709675
+Vila GalÃ© Tavira,2024,3.5531914893617023
+Vila GalÃ© Tavira,2025,3.75
+Vila Galé Albacora,2004,4.2
+Vila Galé Albacora,2005,3.9545454545454546
+Vila Galé Albacora,2006,3.2
+Vila Galé Albacora,2007,3.727272727272727
+Vila Galé Albacora,2008,3.2
+Vila Galé Albacora,2009,4.0
+Vila Galé Albacora,2010,3.6
+Vila Galé Albacora,2011,3.8333333333333335
+Vila Galé Albacora,2012,3.892857142857143
+Vila Galé Albacora,2013,3.875
+Vila Galé Albacora,2014,3.896551724137931
+Vila Galé Albacora,2015,3.977777777777778
+Vila Galé Albacora,2016,3.740740740740741
+Vila Galé Albacora,2017,3.973684210526316
+Vila Galé Albacora,2018,3.76
+Vila Galé Albacora,2019,3.8947368421052633
+Vila Galé Albacora,2020,4.25
+Vila Galé Albacora,2021,4.0
+Vila Galé Albacora,2022,4.222222222222222
+Vila Galé Albacora,2023,3.9285714285714284
+Vila Galé Albacora,2024,4.055555555555555
+Vila Galé Albacora,2025,3.6363636363636362
+Vila Galé Coimbra,2010,3.75
+Vila Galé Coimbra,2011,4.157894736842105
+Vila Galé Coimbra,2012,3.9722222222222223
+Vila Galé Coimbra,2013,3.782608695652174
+Vila Galé Coimbra,2014,3.8181818181818183
+Vila Galé Coimbra,2015,4.0
+Vila Galé Coimbra,2016,4.0181818181818185
+Vila Galé Coimbra,2017,3.6842105263157894
+Vila Galé Coimbra,2018,3.923076923076923
+Vila Galé Coimbra,2019,3.933333333333333
+Vila Galé Coimbra,2021,2.6666666666666665
+Vila Galé Coimbra,2022,2.8
+Vila Galé Coimbra,2023,3.5294117647058822
+Vila Galé Coimbra,2024,3.5384615384615383
+Vila Galé Coimbra,2025,4.461538461538462
+Vilas Marrocha,2011,2.0
+Vilas Marrocha,2012,3.5
+Vilas Marrocha,2013,4.0
+Vilas Marrocha,2014,3.6
+Vilas Marrocha,2015,3.857142857142857
+Vilas Marrocha,2016,3.9
+Vilas Marrocha,2017,3.909090909090909
+Vilas Marrocha,2018,3.6153846153846154
+Vilas Marrocha,2019,3.8
+Vilas Marrocha,2020,4.0
+Vilas Marrocha,2022,5.0
+Vilas Marrocha,2023,3.5
+Vilas Marrocha,2024,5.0
+Vilas Marrocha,2025,4.0
+Villa Center,2023,4.857142857142857
+Villa Center,2024,5.0
+Villa Center,2025,5.0
+Villa Eira,2017,5.0
+Villa Eira,2018,4.714285714285714
+Villa Eira,2019,4.666666666666667
+Villa Eira,2020,5.0
+Villa Eira,2021,4.714285714285714
+Villa Eira,2022,4.833333333333333
+Villa Eira,2023,4.6
+Villa Eira,2024,4.875
+Villa Eira,2025,5.0
+Villa Esmeralda,2008,5.0
+Villa Esmeralda,2012,4.0
+Villa Esmeralda,2013,5.0
+Villa Esmeralda,2016,4.666666666666667
+Villa Esmeralda,2017,4.0
+Villa Esmeralda,2018,4.5
+Villa Esmeralda,2019,3.5
+Villa Esmeralda,2020,5.0
+Villa Esmeralda,2022,5.0
+Villa Esmeralda,2023,4.75
+Villa Esmeralda,2024,4.333333333333333
+Villa Esmeralda,2025,4.0
+Villa Margaridi,2021,5.0
+Villa Margaridi,2022,4.6
+Villa Margaridi,2023,4.2
+Villa Margaridi,2024,5.0
+Villa Margaridi,2025,4.75
+Villa Natura - Ecoturismo,2018,5.0
+Villa Natura - Ecoturismo,2019,5.0
+Villa Natura - Ecoturismo,2020,5.0
+Villa Natura - Ecoturismo,2022,5.0
+Villa Natura - Ecoturismo,2023,5.0
+Villa Natura - Ecoturismo,2024,5.0
+Villas Barrocal,2007,4.0
+Villas Barrocal,2008,4.0
+Villas Barrocal,2011,4.5
+Villas Barrocal,2012,4.125
+Villas Barrocal,2013,3.823529411764706
+Villas Barrocal,2014,4.444444444444445
+Villas Barrocal,2015,3.7333333333333334
+Villas Barrocal,2016,4.3125
+Villas Barrocal,2017,3.75
+Villas Barrocal,2018,3.8
+Villas Barrocal,2019,3.8
+Villas Barrocal,2020,4.8
+Villas Barrocal,2022,4.5
+Villas Barrocal,2023,4.11864406779661
+Villas Barrocal,2024,4.2439024390243905
+Villas Barrocal,2025,4.2956521739130435
+Villas D. Dinis Charming Residence Adults Only,2009,4.0
+Villas D. Dinis Charming Residence Adults Only,2010,4.0
+Villas D. Dinis Charming Residence Adults Only,2011,4.166666666666667
+Villas D. Dinis Charming Residence Adults Only,2012,4.25
+Villas D. Dinis Charming Residence Adults Only,2013,4.555555555555555
+Villas D. Dinis Charming Residence Adults Only,2014,4.157894736842105
+Villas D. Dinis Charming Residence Adults Only,2015,4.321428571428571
+Villas D. Dinis Charming Residence Adults Only,2016,4.48936170212766
+Villas D. Dinis Charming Residence Adults Only,2017,4.63265306122449
+Villas D. Dinis Charming Residence Adults Only,2018,4.185185185185185
+Villas D. Dinis Charming Residence Adults Only,2019,4.676470588235294
+Villas D. Dinis Charming Residence Adults Only,2020,4.5
+Villas D. Dinis Charming Residence Adults Only,2021,4.166666666666667
+Villas D. Dinis Charming Residence Adults Only,2022,4.333333333333333
+Villas D. Dinis Charming Residence Adults Only,2023,4.333333333333333
+Villas D. Dinis Charming Residence Adults Only,2024,4.571428571428571
+Villas D. Dinis Charming Residence Adults Only,2025,3.3333333333333335
+White Exclusive Suites & Villas,2017,4.6
+White Exclusive Suites & Villas,2018,4.846153846153846
+White Exclusive Suites & Villas,2019,4.230769230769231
+White Exclusive Suites & Villas,2021,3.6666666666666665
+White Exclusive Suites & Villas,2022,4.333333333333333
+White Exclusive Suites & Villas,2023,4.909090909090909
+White Exclusive Suites & Villas,2024,4.6875
+White Exclusive Suites & Villas,2025,4.066666666666666
+Wyndham Residences Alvor Beach,2023,3.6666666666666665
+Wyndham Residences Alvor Beach,2024,4.066666666666666
+Wyndham Residences Alvor Beach,2025,4.333333333333333
+Yes! Lisbon Hostel,2010,4.666666666666667
+Yes! Lisbon Hostel,2011,4.666666666666667
+Yes! Lisbon Hostel,2012,4.870967741935484
+Yes! Lisbon Hostel,2013,4.85
+Yes! Lisbon Hostel,2014,4.783333333333333
+Yes! Lisbon Hostel,2015,4.701298701298701
+Yes! Lisbon Hostel,2016,4.808219178082192
+Yes! Lisbon Hostel,2017,4.594594594594595
+Yes! Lisbon Hostel,2018,4.486486486486487
+Yes! Lisbon Hostel,2019,4.619047619047619
+Yes! Lisbon Hostel,2020,4.5
+Yes! Lisbon Hostel,2021,5.0
+Yes! Lisbon Hostel,2022,5.0
+Yes! Lisbon Hostel,2023,3.6666666666666665
+Yes! Lisbon Hostel,2024,5.0
+Yes! Lisbon Hostel,2025,5.0
+ibis Styles Lisboa Centro Liberdade NE,2005,4.0
+ibis Styles Lisboa Centro Liberdade NE,2007,1.0
+ibis Styles Lisboa Centro Liberdade NE,2009,1.0
+ibis Styles Lisboa Centro Liberdade NE,2010,4.0
+ibis Styles Lisboa Centro Liberdade NE,2011,3.5
+ibis Styles Lisboa Centro Liberdade NE,2012,3.5
+ibis Styles Lisboa Centro Liberdade NE,2013,3.5454545454545454
+ibis Styles Lisboa Centro Liberdade NE,2014,3.75
+ibis Styles Lisboa Centro Liberdade NE,2015,3.533333333333333
+ibis Styles Lisboa Centro Liberdade NE,2016,3.586206896551724
+ibis Styles Lisboa Centro Liberdade NE,2017,3.702127659574468
+ibis Styles Lisboa Centro Liberdade NE,2018,3.9791666666666665
+ibis Styles Lisboa Centro Liberdade NE,2019,3.6774193548387095
+ibis Styles Lisboa Centro Liberdade NE,2020,3.0
+ibis Styles Lisboa Centro Liberdade NE,2021,3.3333333333333335
+ibis Styles Lisboa Centro Liberdade NE,2022,4.166666666666667
+ibis Styles Lisboa Centro Liberdade NE,2023,3.8518518518518516
+ibis Styles Lisboa Centro Liberdade NE,2024,4.085714285714285
+ibis Styles Lisboa Centro Liberdade NE,2025,3.909090909090909

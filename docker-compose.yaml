@@ -1,0 +1,176 @@
+version: "3.8"
+
+services:
+  # 🟢 Hadoop Namenode
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: namenode
+    environment:
+      - CLUSTER_NAME=local-hadoop
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+    ports:
+      - "9870:9870"
+      - "9000:9000"
+    volumes:
+      - hdfs-namenode:/hadoop/dfs/name
+      - ./shared:/data
+    networks:
+      - bigdata
+
+  # 🟣 Hadoop Datanode
+  datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: datanode
+    user: root
+    environment:
+      - CLUSTER_NAME=local-hadoop
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+    ports:
+      - "9864:9864"
+    volumes:
+      - hdfs-datanode:/hadoop/dfs/data
+    depends_on:
+      - namenode
+    networks:
+      - bigdata
+  # 🔥 Spark Master
+  spark-master:
+    image: apache/spark:3.5.0
+    container_name: spark-master
+    ports:
+      - "8080:8080"
+      - "7077:7077"
+    command: >
+      bash -c "
+        /opt/spark/sbin/start-master.sh &&
+        tail -f /dev/null"
+    volumes:
+      - ./shared:/data
+      - ./jars:/opt/spark/external-jars
+    networks:
+      - bigdata
+
+  spark-worker:
+    image: apache/spark:3.5.0
+    container_name: spark-worker
+    depends_on:
+      - spark-master
+    command: >
+      bash -c "
+        sleep 10 &&
+        /opt/spark/sbin/start-worker.sh spark://spark-master:7077 &&
+        tail -f /dev/null"
+    volumes:
+      - ./shared:/data
+      - ./jars:/opt/spark/external-jars
+    networks:
+      - bigdata
+
+  jupyter:
+    image: jupyter/pyspark-notebook:spark-3.5.0
+    container_name: jupyter
+    ports:
+      - "8888:8888"
+    environment:
+      - PYSPARK_PYTHON=python3
+      - SPARK_MASTER=spark://spark-master:7077
+    volumes:
+      - ./shared:/data
+      - ./jars:/usr/local/spark/external-jars
+    depends_on:
+      - spark-master
+    command: start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''
+    networks:
+      - bigdata
+
+  postgres_general:
+    image: postgres:15
+    container_name: postgres_general
+    restart: always
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: hotels
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./postgres_data:/var/lib/postgresql/data
+      - ./shared:/data # <-- ADD THIS LINE
+
+
+  pgadmin:
+    image: dpage/pgadmin4:8
+    container_name: pgadmin
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "8085:80"
+    depends_on:
+      - postgres_general
+
+  # 🟣 Airflow Database
+  airflow-db:
+    image: postgres:15
+    container_name: airflow-db
+    environment:
+      - POSTGRES_USER=airflow
+      - POSTGRES_PASSWORD=airflow
+      - POSTGRES_DB=airflow
+    networks:
+      - bigdata
+
+  # 🟢 Airflow Webserver
+  airflow-webserver:
+    image: apache/airflow:2.8.1
+    container_name: airflow-webserver
+    depends_on:
+      - airflow-db
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__CORE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@airflow-db:5432/airflow
+      - AIRFLOW__WEBSERVER__RBAC=true
+    ports:
+      - "8082:8080"
+    command: webserver
+    networks:
+      - bigdata
+
+  # 🟢 Airflow Scheduler
+  airflow-scheduler:
+    image: apache/airflow:2.8.1
+    container_name: airflow-scheduler
+    depends_on:
+      - airflow-db
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__CORE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@airflow-db:5432/airflow
+    command: scheduler
+    networks:
+      - bigdata
+
+  # 🌐 Web App (Flask)
+  web-app:
+    build: ./web_app
+    container_name: hotel-web-app
+    volumes:
+      - ./web_app:/app  # Live reload code changes
+      - ./shared:/data  # Read the CSV and Model from here
+    ports:
+      - "5000:5000"
+    networks:
+      - bigdata
+    depends_on:
+      - jupyter # Assumes you run ETL in Jupyter first
+
+# 🗂️ Volumes
+volumes:
+  hdfs-namenode:
+  hdfs-datanode:
+  pgdata:
+
+# 🌐 Networks
+networks:
+  bigdata:
+    driver: bridge

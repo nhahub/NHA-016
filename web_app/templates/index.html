@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>النظام المتكامل لتوصيات الفنادق</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+     
+    <style>
+        body { 
+            font-family: Tahoma, sans-serif; 
+            margin: 0; 
+            background-color: #f0f2f5; 
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+        }
+        .main-container {
+            display: flex;
+            flex: 1; 
+            overflow: hidden;
+        }
+        
+        /* (تعديل 1) تكبير مساحة القائمة الجانبية وتصغير الخريطة 
+           هنا خلينا القائمة تاخد 45% من الشاشة والخريطة تاخد الباقي (55%)
+        */
+        .sidebar {
+            width: 45%;  /* كبرناها (كانت 450px) */
+            min-width: 500px; /* حد أدنى عشان الشكل ميبوظش */
+            height: 100%;
+            background-color: #ffffff;
+            border-left: 2px solid #ddd;
+            box-shadow: -3px 0 10px rgba(0,0,0,0.1);
+            z-index: 1000;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .map-container {
+            flex: 1; /* بتاخد الباقي من المساحة */
+            height: 100%;
+        }
+        
+        #map { 
+            height: 100%; 
+            width: 100%; 
+            cursor: crosshair; 
+        }
+
+        /* (تعديل 2) ضبط الـ iframe ليملأ القائمة بالكامل */
+        .panel-iframe {
+            width: 100%;
+            height: 100%; /* ارتفاع كامل */
+            border: none;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="main-container">
+        
+        <div class="sidebar">
+            <iframe id="search-panel-iframe" src="/search_panel" class="panel-iframe"></iframe>
+        </div>
+
+        <div class="map-container">
+            <div id="map"></div>
+        </div>
+        
+    </div>
+
+    <script>
+        // --- 1. إعدادات الخريطة ---
+        var currentMapLocation = null;
+        var selectedHotelMarker = null; 
+        var hotelMarkersLayer = L.layerGroup(); 
+        
+        const userIcon = new L.Icon({
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
+            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+            iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41]
+        });
+
+        var map = L.map('map').setView([38.7223, -9.1393], 13);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© OpenStreetMap'
+        }).addTo(map);
+        hotelMarkersLayer.addTo(map);
+
+        // تحميل الدبابيس الأولية (اختياري)
+        fetch('/api/hotels')
+            .then(response => response.json())
+            .then(hotels => {
+                hotels.forEach(hotel => {
+                    if (hotel.lat && hotel.lng) {
+                         L.marker([hotel.lat, hotel.lng])
+                            .bindPopup(`<b>${hotel.name}</b><br>$${hotel.price}`)
+                            .addTo(hotelMarkersLayer);
+                    }
+                });
+            })
+            .catch(err => console.error("Error loading map pins:", err));
+
+        // --- 2. التعامل مع نقرة الخريطة ---
+        map.on('click', function(e) {
+            const lat = e.latlng.lat;
+            const lng = e.latlng.lng;
+            
+            // وضع الدبوس الأحمر
+            if (selectedHotelMarker) map.removeLayer(selectedHotelMarker);
+            selectedHotelMarker = L.marker([lat, lng], { icon: userIcon }).addTo(map);
+            
+            // إرسال الإحداثيات للـ iframe (عشان البحث يشتغل)
+            try {
+                const iframe = document.getElementById('search-panel-iframe');
+                if (iframe && iframe.contentWindow && iframe.contentWindow.handleMapClick) {
+                    iframe.contentWindow.handleMapClick(lat, lng);
+                }
+            } catch (e) {
+                console.warn("Could not notify iframe.", e);
+            }
+        });
+
+        // --- 3. دالة تحديث الخريطة فقط (إلغاء التكرار) ---
+        // الـ iframe هو اللي بينادي الدالة دي لما البحث يخلص
+        window.displayResults = function(hotels) {
+            // بنمسح الدبابيس القديمة ونحط الجديدة بس
+            hotelMarkersLayer.clearLayers();
+            
+            // نرجع الدبوس الأحمر (موقع اليوزر) لو كان موجود
+            if (selectedHotelMarker) {
+                selectedHotelMarker.addTo(hotelMarkersLayer);
+            }
+
+            // نضيف دبابيس الفنادق الجديدة
+            hotels.forEach(hotel => {
+                if (hotel.lat && hotel.lng) {
+                      L.marker([hotel.lat, hotel.lng])
+                        .bindPopup(`<b>${hotel.name}</b><br>السعر: $${hotel.price}`)
+                        .addTo(hotelMarkersLayer);
+                }
+            });
+            
+            // زووم على النتايج
+            if (hotelMarkersLayer.getBounds().isValid()) {
+                map.fitBounds(hotelMarkersLayer.getBounds().pad(0.2));
+            }
+            
+            // ⚠️ ملاحظة: شيلنا الكود اللي كان بيعمل appendChild للقائمة هنا
+            // عشان كده النتايج هتظهر مرة واحدة بس جوه الـ iframe زي ما انت عايز
+        }
+        
+        // (مش محتاجين دالة resizeIframe لأننا ضبطنا الطول بالـ CSS ليكون 100%)
+    </script>
+</body>
+</html>

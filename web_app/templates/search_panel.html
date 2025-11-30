@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>بحث شامل</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; background-color: #f4f4f4; padding: 20px; }
+        .search-panel { background: #fff; padding: 25px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        h1 { text-align: center; color: #2c3e50; margin-top: 0; font-size: 1.5em; margin-bottom: 20px;}
+        
+        .smart-input-container textarea { width: 100%; height: 60px; padding: 10px; border: 2px solid #3498db; border-radius: 6px; font-family: inherit; resize: none; box-sizing: border-box; }
+        .smart-btn { background: #3498db; color: white; border: none; padding: 5px 15px; border-radius: 4px; cursor: pointer; margin-top: 5px; }
+        
+        .amenities-box { max-height: 200px; overflow-y: auto; border: 1px solid #ddd; background: #fafafa; padding: 10px; border-radius: 6px; margin-bottom: 20px; scrollbar-width: thin; }
+        .amenities-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 5px; }
+        .amenity-item { display: flex; align-items: center; font-size: 0.85em; cursor: pointer; padding: 5px; border-radius: 4px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+        .amenity-item:hover { background-color: #e8f4fd; }
+        .amenity-item input { margin-left: 8px; flex-shrink: 0; }
+
+        .price-labels { display: flex; justify-content: space-between; font-weight: bold; color: #555; font-size: 0.9em;}
+        input[type="range"] { width: 100%; cursor: pointer; margin-top: 5px; accent-color: #27ae60; }
+        .search-btn { width: 100%; padding: 12px; background-color: #27ae60; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 16px; font-weight: bold; transition: 0.3s; margin-top: 15px;}
+        .search-btn:hover { background-color: #219150; }
+        
+        #search-results-container { margin-top: 20px; display: none; border-top: 1px solid #eee; padding-top: 15px; }
+        #search-results-list { list-style: none; padding: 0; }
+        #search-results-list li { background: #fff; border: 1px solid #eee; margin-bottom: 10px; padding: 10px; display: flex; align-items: center; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.03); cursor: pointer; transition: transform 0.2s;}
+        #search-results-list li:hover { transform: scale(1.01); background-color: #fdfdfd; border-color: #3498db; }
+        #search-results-list img { width: 80px; height: 80px; object-fit: cover; border-radius: 6px; margin-left: 15px; flex-shrink: 0;}
+        .info strong { color: #2c3e50; font-size: 1.1em; display: block; margin-bottom: 4px; }
+        .price-tag { color: #27ae60; font-weight: bold; font-size: 1.1em; }
+        .meta { font-size: 0.85em; color: #7f8c8d; margin-top: 4px; }
+
+        #loading { text-align: center; display: none; color: #7f8c8d; margin-top: 15px; }
+        #error { color: #e74c3c; text-align: center; display: none; margin-top: 10px; font-size: 0.9em; }
+        #location-warning { background: #fef9e7; color: #f39c12; padding: 10px; border-radius: 6px; display: none; margin-bottom: 15px; text-align: center; border: 1px solid #fdebd0;}
+    </style>
+</head>
+<body>
+
+    <div class="search-panel">
+        <h1>فندقك المثالي 🏨</h1>
+        <div id="location-warning">⚠️ حدد موقعك على الخريطة أولاً!</div>
+
+        <div class="smart-input-container">
+            <textarea id="smartTextInput" placeholder="أوصف طلبك (مثال: فندق فيه بسين وفطار)..."></textarea>
+            <button class="smart-btn" onclick="analyzeAndSelect()">🤖 تحليل واختيار</button>
+        </div>
+
+        <label style="font-weight:bold; display:block; margin:15px 0 5px;">المميزات المتاحة (<span id="amenities-count">0</span>):</label>
+        <div class="amenities-box">
+            <div class="amenities-grid" id="dynamic-amenities"></div>
+        </div>
+
+        <div style="margin: 20px 0; border-top: 1px solid #eee; padding-top: 15px;">
+            <div style="display:flex; justify-content:space-between; font-weight:bold; color:#555;">
+                <span>0</span><span>$<span id="maxPriceValue">...</span></span>
+            </div>
+            <input type="range" id="maxPriceSlider" min="0" value="0" style="width:100%; margin-top:5px;" oninput="document.getElementById('maxPriceValue').innerText = this.value">
+        </div>
+        
+        <button class="search-btn" onclick="searchHotels()">🔍 ابحث الآن</button>
+        
+        <div id="loading">جاري البحث...</div>
+        <div id="error"></div>
+        <div id="search-results-container"><ul id="search-results-list"></ul></div>
+    </div>
+
+    <script>
+        let selectedLat = null; let selectedLng = null;
+        const niceNames = { 'wifi': 'واي فاي', 'pool': 'حمام سباحة', 'parking': 'موقف سيارات', 'breakfast': 'إفطار', 'gym': 'جيم', 'air_conditioning': 'تكييف', 'spa': 'سبا', 'restaurant': 'مطعم', 'beach': 'شاطئ' };
+
+        window.handleMapClick = function(lat, lng) { selectedLat = lat; selectedLng = lng; document.getElementById('location-warning').style.display = 'none'; }
+
+        window.onload = async function() {
+            try {
+                const response = await fetch('/api/metadata');
+                const data = await response.json();
+                const max = Math.ceil(data.max_price);
+                document.getElementById('maxPriceSlider').max = max;
+                document.getElementById('maxPriceSlider').value = max;
+                document.getElementById('maxPriceValue').innerText = max;
+
+                const container = document.getElementById('dynamic-amenities');
+                document.getElementById('amenities-count').innerText = data.amenities.length;
+                data.amenities.sort().forEach(key => {
+                    let name = key.replace(/_/g, ' ');
+                    for (const [k, v] of Object.entries(niceNames)) if (key.includes(k)) { name = v + ` (${name})`; break; }
+                    container.innerHTML += `<label class="amenity-item"><input type="checkbox" value="${key}"> ${name}</label>`;
+                });
+            } catch (e) { console.error(e); }
+        };
+
+        function analyzeAndSelect() {
+            const text = document.getElementById('smartTextInput').value.toLowerCase();
+            const checkboxes = document.querySelectorAll('#dynamic-amenities input');
+            checkboxes.forEach(cb => cb.checked = false);
+            let count = 0;
+            const map = {'pool':'بسين','wifi':'نت','parking':'ركنة','gym':'جيم','breakfast':'فطار'};
+            checkboxes.forEach(cb => {
+                const key = cb.value.toLowerCase().replace(/_/g,' ');
+                let match = text.includes(key);
+                for(const[eng,ar] of Object.entries(map)) if(key.includes(eng) && text.includes(ar)) match=true;
+                if(match) { cb.checked=true; cb.parentElement.scrollIntoView({block:'center'}); count++; }
+            });
+            if(count>0) alert(`✅ تم تحديد ${count} مميزات.`); else alert("⚠️ لم نجد تطابق.");
+        }
+
+        async function searchHotels() {
+            if (!selectedLat) { document.getElementById('location-warning').style.display = 'block'; return; }
+            const checkedBoxes = document.querySelectorAll('#dynamic-amenities input:checked');
+            const amenitiesList = Array.from(checkedBoxes).map(cb => cb.value);
+
+            const loading = document.getElementById('loading');
+            const container = document.getElementById('search-results-container');
+            const list = document.getElementById('search-results-list');
+            const errorDiv = document.getElementById('error');
+
+            loading.style.display = 'block'; container.style.display = 'none'; errorDiv.style.display = 'none'; list.innerHTML = '';
+
+            try {
+                const response = await fetch('/recommend', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ lat: selectedLat, lng: selectedLng, radius: 50, amenities: amenitiesList })
+                });
+                const result = await response.json();
+                loading.style.display = 'none';
+
+                if(result.status === 'success' && result.data.length > 0) {
+                    const userMaxPrice = parseInt(document.getElementById('maxPriceSlider').value);
+                    const filtered = result.data.filter(h => h.price <= userMaxPrice);
+
+                    if (filtered.length === 0) {
+                        errorDiv.innerText = "لا توجد نتائج بهذا السعر."; errorDiv.style.display = 'block';
+                    } else {
+                        filtered.forEach(hotel => {
+                            const li = document.createElement('li');
+                            const thumb = hotel.image_url || 'https://placehold.co/100?text=Hotel';
+                            li.innerHTML = `
+                                <img src="${thumb}" onerror="this.src='https://placehold.co/100?text=No+Image'">
+                                <div class="info">
+                                    <strong>${hotel.name}</strong>
+                                    <span class="price-tag">$${hotel.price.toFixed(0)}</span>
+                                    <div class="meta">📍 ${hotel.distance_km} كم | توافق: ${hotel.match_percent}%</div>
+                                </div>
+                            `;
+                            
+                            // 🔴 هذا هو التغيير المهم: عند الضغط، افتح صفحة التفاصيل
+                            li.onclick = () => {
+                                // الانتقال لصفحة التفاصيل في نفس الـ iframe
+                                window.location.href = '/hotel/' + hotel.id;
+                                
+                                // (اختياري) تحريك الخريطة في الصفحة الرئيسية
+                                if(window.parent && window.parent.map) window.parent.map.flyTo([hotel.lat, hotel.lng], 16);
+                            };
+                            list.appendChild(li);
+                        });
+                        container.style.display = 'block';
+                        if(window.parent.displayResults) window.parent.displayResults(filtered);
+                    }
+                } else {
+                    errorDiv.innerText = result.message || 'لا توجد فنادق.'; errorDiv.style.display = 'block';
+                }
+            } catch (e) { console.error(e); loading.style.display = 'none'; }
+        }
+    </script>
+</body>
+</html>

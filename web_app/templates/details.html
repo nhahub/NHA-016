@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ hotel.name }}</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; background-color: #fff; padding: 20px; color: #333; }
+        
+        /* زر العودة */
+        .back-btn { 
+            display: inline-block; margin-bottom: 20px; text-decoration: none; 
+            color: #337ab7; font-weight: bold; font-size: 1.1em; 
+            border: 1px solid #ddd; padding: 8px 15px; border-radius: 20px;
+            transition: 0.3s;
+        }
+        .back-btn:hover { background-color: #f0f8ff; border-color: #337ab7; }
+
+        /* العنوان */
+        h1 { margin: 0 0 10px 0; color: #2c3e50; font-size: 1.8em; }
+        .location { color: #7f8c8d; font-size: 0.95em; margin-bottom: 15px; display: block; }
+        
+        /* السعر والتقييم */
+        .meta-info { display: flex; align-items: center; gap: 15px; margin-bottom: 20px; }
+        .price { font-size: 1.6em; color: #27ae60; font-weight: bold; }
+        .rating { background: #f39c12; color: white; padding: 4px 8px; border-radius: 6px; font-weight: bold; }
+
+        /* معرض الصور */
+        .gallery { 
+            display: flex; overflow-x: auto; gap: 10px; padding-bottom: 15px; 
+            margin-bottom: 25px; scrollbar-width: thin; 
+        }
+        .gallery img { 
+            height: 200px; border-radius: 8px; object-fit: cover; 
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1); cursor: pointer;
+            transition: transform 0.2s;
+        }
+        .gallery img:hover { transform: scale(1.02); }
+
+        /* تفاصيل الخدمات */
+        .amenities-section { background: #f9f9f9; padding: 20px; border-radius: 10px; border: 1px solid #eee; }
+        .amenities-section h3 { margin-top: 0; color: #34495e; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        .amenities-text { line-height: 1.8; font-size: 1em; color: #555; }
+
+        /* زر الحجز */
+        .book-btn {
+            display: block; width: 100%; text-align: center; 
+            background: #3498db; color: white; padding: 15px; 
+            border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.2em;
+            margin-top: 25px; box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3);
+            transition: 0.3s;
+        }
+        .book-btn:hover { background: #2980b9; transform: translateY(-2px); }
+
+    </style>
+</head>
+<body>
+
+    <a href="/search_panel" class="back-btn">➜ عودة للبحث</a>
+
+    <h1>{{ hotel.name }}</h1>
+    <span class="location">📍 {{ hotel.location }}</span>
+
+    <div class="meta-info">
+        <span class="price">${{ hotel.price }}</span>
+        <span class="rating">⭐ {{ hotel.rating }}</span>
+        {% if hotel.distance_km > 0 %}
+        <span style="color:#777; font-size:0.9em;">(يبعد {{ hotel.distance_km }} كم)</span>
+        {% endif %}
+    </div>
+
+    {% if hotel.all_images %}
+    <div class="gallery">
+        {% for img in hotel.all_images %}
+            <img src="{{ img }}" onclick="window.open(this.src, '_blank')" alt="Hotel Image">
+        {% endfor %}
+    </div>
+    {% else %}
+        <div style="padding:20px; background:#eee; text-align:center; border-radius:8px; margin-bottom:20px;">لا توجد صور متاحة</div>
+    {% endif %}
+
+    <div class="amenities-section">
+        <h3>التفاصيل والمميزات</h3>
+        <p class="amenities-text">
+            {{ hotel.amenities or "لا توجد معلومات تفصيلية عن المميزات، ولكن الفندق يتمتع بموقع متميز وخدمات أساسية." }}
+        </p>
+    </div>
+
+    <a href="#" class="book-btn" onclick="alert('سيتم تحويلك لصفحة الحجز قريباً!')">احجز الآن</a>
+
+</body>
+</html>
