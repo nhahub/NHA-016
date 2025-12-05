@@ -10,7 +10,7 @@ The system scrapes raw data, processes it through a distributed ETL pipeline (Sp
 ## 🏗️ Architecture Pipeline
 The project follows a modular 4-stage architecture:
 
-![System Architecture](images/system_architecture.png)
+![System Architecture](images/system_architecture.jpeg)
 
 1. **Extraction (Scraping)**
    - **Tools:** Selenium, Undetected Chromedriver, BeautifulSoup.
